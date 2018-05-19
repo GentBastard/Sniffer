@@ -1,0 +1,1566 @@
+ÿData:  ******* Raw Hex Output - length=382 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  01 70 7e 33 40 00 80 11  99 74 c0 a8 64 25 ac d9   .p~3@... .t..d%..
+Data: 0020  10 2e f7 cf 01 bb 01 5c  94 4a 0c a5 e9 6f 36 5d   .......\ .J...o6]
+Data: 0030  8b 4d 89 17 72 01 c1 79  06 95 ff 1b 26 b5 20 ef   .M..r..y ....&...
+Data: 0040  e7 5c da 70 e6 7d a6 1a  a5 14 c1 71 1e 76 f3 6d   .\.p.}.. ...q.v.m
+Data: 0050  00 d9 b6 ca 67 7a 09 ce  aa ab a4 de 3f 99 72 1c   ....gz.. ....?.r.
+Data: 0060  bd 18 23 2b 6e 8f 5e 59  08 65 51 5f 25 f5 f8 77   ..#+n.^Y .eQ_%..w
+Data: 0070  d1 e3 19 bc 97 15 2c a2  b6 ad 54 df 51 bc 63 7c   ......,. ..T.Q.c|
+Data: 0080  14 34 fb fa 79 8c d3 ec  fe 96 96 eb fc b4 15 e2   .4..y... ........
+Data: 0090  e2 99 1a 8f da 6e a6 d2  c7 b0 63 53 a4 26 41 a0   .....n.. ..cS.&A.
+Data: 0100  45 4b f3 93 1b 57 b8 84  98 65 28 a6 db 49 81 76   EK...W.. .e(..I.v
+Data: 0110  f9 42 6c e0 8f 8f c6 f9  f9 37 b1 93 04 77 ea b5   .Bl..... .7...w..
+Data: 0120  0b 45 e7 20 87 3f ea fb  0f 07 66 0c a2 78 2d b5   .E...?.. ..f..x-.
+Data: 0130  2b 18 1f 82 c9 e5 6f c1  59 3a eb 11 fe 6f a9 02   +.....o. Y:...o..
+Data: 0140  2a 4e 41 0b 44 03 35 50  02 df 3b d3 13 7d e4 5c   *NA.D.5P ..;..}.\
+Data: 0150  c6 43 2f b9 c9 83 aa a2  e9 f5 ec ab bc e3 9d 06   .C/..... ........
+Data: 0160  31 d2 f7 c4 b9 eb ec fe  25 48 4a f4 2d 9b 7d 30   1....... %HJ.-.}0
+Data: 0170  88 87 73 a0 88 7a 6f 0f  2c 54 f6 6a ab cb f0 db   ..s..zo. ,T.j....
+Data: 0180  3b cf 6e 50 3e 79 a5 63  f9 0e 9c 87 99 b2 41 eb   ;.nP>y.c ......A.
+Data: 0190  30 8b a6 9f dc d4 5e de  d5 5d 9c 14 7f ea ec f5   0.....^. .]......
+Data: 0200  d3 46 d9 3e f4 a3 dc d4  c0 aa 72 33 65 24 b3 bc   .F.>.... ..r3e$..
+Data: 0210  4b ad 14 18 39 ad fe 31  87 c3 c1 30 a9 37 18 1f   K...9..1 ...0.7..
+Data: 0220  00 8d b4 e3 a8 19 0a 55  e9 56 c9 26 03 5b e3 dd   .......U .V.&.[..
+Data: 0230  db b8 37 70 9a 2a ad fd  84 b4 45 d9 3d 54         ..7p.*.. ..E.=T
+ž	Data:  ******* Raw Hex Output - length=182 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 a8 7e 34 40 00 80 11  9a 3b c0 a8 64 25 ac d9   ..~4@... .;..d%..
+Data: 0020  10 2e f7 cf 01 bb 00 94  df 50 0c a5 e9 6f 36 5d   ........ .P...o6]
+Data: 0030  8b 4d 89 18 e9 80 ec 89  de 2d bf 20 2a b3 88 0a   .M...... .-..*...
+Data: 0040  8e 9d ad 39 32 7f 89 8f  89 41 dd ef 69 35 ab 72   ...92... .A..i5.r
+Data: 0050  b0 0c f7 37 cc d7 73 ad  da 3a 72 71 61 8e aa 01   ...7..s. .:rqa...
+Data: 0060  81 61 39 5a b3 ff 77 e5  95 1b bb cd b2 e3 4f 4e   .a9Z..w. ......ON
+Data: 0070  33 75 3e b1 e0 ad fc 31  cd 9a fb 65 92 3d 63 9f   3u>....1 ...e.=c.
+Data: 0080  78 71 83 e9 17 d0 46 88  1f 23 6d 8d a6 67 f1 91   xq....F. .#m..g..
+Data: 0090  61 20 50 d0 16 10 e7 9c  f9 71 f2 56 7f fa 9b e3   a.P..... .q.V....
+Data: 0100  b1 0f fd 62 d0 2d ab c8  02 e3 d2 cb 72 38 5e a7   ...b.-.. ....r8^.
+Data: 0110  7e b4 7a 45 e1 2b                                  ~.zE.+
+äData:  ******* Raw Hex Output - length=699 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  02 ad 7e 35 40 00 80 11  98 35 c0 a8 64 25 ac d9   ..~5@... .5..d%..
+Data: 0020  10 2e f7 cf 01 bb 02 99  33 a8 0c a5 e9 6f 36 5d   ........ 3....o6]
+Data: 0030  8b 4d 89 19 22 34 82 7c  a0 9a b6 d9 60 1e a3 11   .M.."4.| ....`...
+Data: 0040  e2 92 24 c6 2d 4a 48 0c  7a 59 71 62 d5 66 34 ef   ..$.-JH. zYqb.f4.
+Data: 0050  e8 d2 09 c6 9d c2 b9 df  b0 90 9f 21 c0 3e 13 7e   ........ ...!.>.~
+Data: 0060  96 36 c0 e4 ee 83 5d e1  61 54 b8 70 51 24 7e 32   .6....]. aT.pQ$~2
+Data: 0070  75 8b 7f e4 ec ed 03 cc  27 f7 78 1a aa 9d 3e f0   u....... '.x...>.
+Data: 0080  5a 54 bd 48 ff 92 dd 70  ef 8a 16 e3 0f 9f 95 b7   ZT.H...p ........
+Data: 0090  5b 04 63 e2 9b c8 59 64  40 9c 8c 74 fb 15 00 a0   [.c...Yd @..t....
+Data: 0100  1c c7 0e 63 c6 65 37 ff  64 e9 d3 fb 29 4b 7a 44   ...c.e7. d...)KzD
+Data: 0110  71 1e 3b 21 a4 dc 44 b9  be cf 03 12 4a 8b 2f 7b   q.;!..D. ....J./{
+Data: 0120  2a b0 3e ec aa c9 83 bd  10 2a 01 61 78 5d 15 3a   *.>..... .*.ax].:
+Data: 0130  84 21 54 27 52 3e c8 a5  80 5e 0f d0 4f b8 68 8f   .!T'R>.. .^..O.h.
+Data: 0140  6a 50 28 74 b1 d5 76 7a  d2 b0 4a 2f ac c6 89 b5   jP(t..vz ..J/....
+Data: 0150  63 97 ed 06 e1 29 99 93  f2 d1 a4 7c 5b 79 25 8a   c....).. ...|[y%.
+Data: 0160  55 7b 61 27 ed be 37 ff  34 19 30 bc c1 0a 9c d5   U{a'..7. 4.0.....
+Data: 0170  a1 e4 93 32 bf 11 7e 1c  32 08 36 f0 58 96 6f ff   ...2..~. 2.6.X.o.
+Data: 0180  9b 51 0e 8a f4 f5 72 5d  25 90 3d 61 29 7c 57 87   .Q....r] %.=a)|W.
+Data: 0190  25 17 9e ca 69 c6 19 99  5f 7d f2 e3 28 05 92 56   %...i... _}..(..V
+Data: 0200  ca 80 95 4c 9e 63 c0 da  a3 e8 79 06 65 0b c0 9c   ...L.c.. ..y.e...
+Data: 0210  d3 50 00 61 61 8a 80 46  08 85 b2 8f 09 e6 be 19   .P.aa..F ........
+Data: 0220  2f 78 06 fe fe d7 0f b5  9e dc d1 a5 1f b9 03 76   /x...... .......v
+Data: 0230  05 16 02 f5 f7 e6 2d c0  71 d6 5c 87 94 53 b8 89   ......-. q.\..S..
+Data: 0240  f8 30 10 68 85 13 0f 96  40 d8 5c b2 c4 02 7f 92   .0.h.... @.\.....
+Data: 0250  d3 34 17 68 50 a9 a8 04  8a 6a c6 53 b6 01 68 6b   .4.hP... .j.S..hk
+Data: 0260  8a 05 e7 0d 81 d2 0b ac  2a 71 51 e6 e1 ff 50 4b   ........ *qQ...PK
+Data: 0270  c2 3a 42 bb b7 08 93 df  3f 11 5c ff 1f 9a dc 12   .:B..... ?.\.....
+Data: 0280  11 70 00 58 c1 c5 32 c9  30 be ed a7 5d 2b 43 94   .p.X..2. 0...]+C.
+Data: 0290  56 a0 a5 5a 52 4f 98 73  14 fe e0 02 0e 9c 1e 4d   V..ZRO.s .......M
+Data: 0300  75 53 12 44 de bf 92 a6  69 34 bc e4 0d 43 85 41   uS.D.... i4...C.A
+Data: 0310  e9 fa 43 7a a5 80 e8 90  1e fa 51 39 61 0d 8a 85   ..Cz.... ..Q9a...
+Data: 0320  22 d2 08 59 ab f2 e8 91  1b d1 38 d3 20 50 0f 36   "..Y.... ..8..P.6
+Data: 0330  05 3c 3b a2 aa 3d be b6  4f cb 73 94 fd c2 2b e6   .<;..=.. O.s...+.
+Data: 0340  e7 84 04 71 b3 53 38 90  85 ba 4f 5f 28 9f 0c 81   ...q.S8. ..O_(...
+Data: 0350  4f 8b 63 cc 59 c0 9f 2b  98 26 62 0c 1c 21 b8 a7   O.c.Y..+ .&b..!..
+Data: 0360  ac f2 1e 49 1e 01 3a 54  b2 1a b1 34 f4 c0 ae 5f   ...I..:T ...4..._
+Data: 0370  37 10 fc d4 82 4b ea c5  34 ba c0 6f 00 df bc 3d   7....K.. 4..o...=
+Data: 0380  25 51 60 a1 79 8a d9 9f  31 47 e3 fd cc 5b 2a 9f   %Q`.y... 1G...[*.
+Data: 0390  e8 8b f5 6f a8 18 09 a0  8a 3a 11 fb c7 27 5e 3f   ...o.... .:...'^?
+Data: 0400  d3 de 6e ee ad f9 2e a5  28 9b 87 b2 73 fa 71 08   ..n..... (...s.q.
+Data: 0410  47 45 d9 8d a3 1b 2a 4d  e8 ab f8 d8 64 28 74 8a   GE....*M ....d(t.
+Data: 0420  d5 a5 fa 43 57 b1 5e 12  06 66 4b 54 1f a8 86 4f   ...CW.^. .fKT...O
+Data: 0430  72 3c 3e 44 0a d1 f9 cf  d1 61 43                  r<>D.... .aC
+Ç
+Data:  ******* Raw Hex Output - length=218 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 cc 7e 36 40 00 80 11  9a 15 c0 a8 64 25 ac d9   ..~6@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 00 b8  fd 2f 0c a5 e9 6f 36 5d   ........ ./...o6]
+Data: 0030  8b 4d 89 1a b4 37 b3 22  34 36 31 e2 08 14 ed 8c   .M...7." 461.....
+Data: 0040  b1 88 8e d2 cf aa 60 47  60 45 35 fb ec 4a 35 05   ......`G `E5..J5.
+Data: 0050  2e 2a 86 d5 2e 95 d1 af  c7 6d 3a c4 6e 12 3c db   .*...... .m:.n.<.
+Data: 0060  e7 74 9e d3 d3 de ef 22  c2 df b3 ea c3 80 03 1c   .t....." ........
+Data: 0070  a4 3d aa 57 a5 55 14 2e  68 21 48 fd 8d 0b 00 ec   .=.W.U.. h!H.....
+Data: 0080  58 e0 04 90 1e a7 27 39  9a f0 34 48 bd 3f e9 f8   X.....'9 ..4H.?..
+Data: 0090  96 3b 82 0e 41 05 64 87  c8 23 50 ae 2f 05 8e 21   .;..A.d. .#P./..!
+Data: 0100  8c c6 4a c9 e4 3a 2d f0  fd a3 39 46 86 04 6d 74   ..J..:-. ..9F..mt
+Data: 0110  92 67 ff ac 14 c6 26 55  24 cf 54 30 53 df 41 32   .g....&U $.T0S.A2
+Data: 0120  05 b1 6b 90 9e 0b 18 31  d2 55 3d 15 fa 17 fc 3f   ..k....1 .U=....?
+Data: 0130  1f d0 57 f9 a4 9e be 51  24 f1                     ..W....Q $.
+åData:  ******* Raw Hex Output - length=75 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 3d 00 00 40 00 38 11  60 db ac d9 10 2e c0 a8   .=..@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 29  9c 71 00 19 ea 47 63 99   d%.....) .q...Gc.
+Data: 0030  6a a4 ad 37 51 83 71 ad  14 3e 94 e6 24 1e ed 35   j..7Q.q. .>..$..5
+Data: 0040  16 c1 61 70 60 40 cc b7  db 20 24                  ..ap`@.. ..$
+äData:  ******* Raw Hex Output - length=699 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  02 ad 7e 37 40 00 80 11  98 33 c0 a8 64 25 ac d9   ..~7@... .3..d%..
+Data: 0020  10 2e f7 cf 01 bb 02 99  2b 99 0c a5 e9 6f 36 5d   ........ +....o6]
+Data: 0030  8b 4d 89 1b cc 55 c1 fd  37 fc 50 11 cd 02 ee dd   .M...U.. 7.P.....
+Data: 0040  ac 67 e4 fe 8a 76 06 ce  ca 36 00 68 a4 2d 8a b1   .g...v.. .6.h.-..
+Data: 0050  d9 8f 58 e9 29 37 18 97  8e 1c 09 68 f5 38 81 f8   ..X.)7.. ...h.8..
+Data: 0060  cd 7e d5 2e ff 15 7c 3b  da ff c9 50 4f a5 a9 1d   .~....|; ...PO...
+Data: 0070  79 9f 12 68 ec 4c bc e3  52 2f 4e 76 6c 21 00 7e   y..h.L.. R/Nvl!.~
+Data: 0080  f2 a0 a4 c7 d7 b3 b3 f7  ae f6 29 0b 82 79 37 49   ........ ..)..y7I
+Data: 0090  58 20 d7 9c e2 96 5b f1  be 8f a7 94 f5 a6 f4 08   X.....[. ........
+Data: 0100  5d a0 39 ee 8a 32 c7 71  24 e1 5c ac 97 5a 97 b8   ].9..2.q $.\..Z..
+Data: 0110  b3 91 94 54 dd c5 fe 2b  62 1d da f5 df de 85 84   ...T...+ b.......
+Data: 0120  dc f0 21 51 6d 38 18 41  9d d5 7f 41 a0 f3 e9 10   ..!Qm8.A ...A....
+Data: 0130  31 6d 54 0a a7 18 b4 cb  84 26 4d 9a 6f 70 19 e2   1mT..... .&M.op..
+Data: 0140  05 a5 3f eb e5 17 6a c5  1e 00 e8 43 69 33 ef 8e   ..?...j. ...Ci3..
+Data: 0150  3e a1 72 86 84 1d 0d 5b  07 0d 6f db d0 4a ea c0   >.r....[ ..o..J..
+Data: 0160  7e 4e a3 25 13 12 1b fc  a8 b3 47 81 5a 13 7b bb   ~N.%.... ..G.Z.{.
+Data: 0170  91 64 4c ca 83 34 df f6  0c 45 88 52 47 ac 31 7c   .dL..4.. .E.RG.1|
+Data: 0180  f8 6b 97 20 8e 7a 13 f8  a4 c9 dd 92 99 67 c6 74   .k...z.. .....g.t
+Data: 0190  f8 ce 37 ad 2b 4a 87 ce  94 4d a0 cc 04 20 b1 ba   ..7.+J.. .M......
+Data: 0200  c6 1a 9a 14 d5 12 fb fb  98 ce 7b bf 0e b6 1d ed   ........ ..{.....
+Data: 0210  05 72 df a1 f2 0c 9e 5c  74 c8 79 0d 16 5c 5f 01   .r.....\ t.y..\_.
+Data: 0220  75 bf ff 5d 92 af f1 48  f2 de 4f 9d 1f 42 da 04   u..]...H ..O..B..
+Data: 0230  2a 84 84 6a 83 c0 56 05  85 e9 34 32 5a c6 66 f0   *..j..V. ..42Z.f.
+Data: 0240  08 ee 02 87 19 bd 8b a1  75 ef 94 9a 76 4b 93 56   ........ u...vK.V
+Data: 0250  b9 40 aa e2 26 1d fd 8f  e0 98 7f 9f fd f5 ae d0   .@..&... ........
+Data: 0260  ac fa 0f db 46 2e a2 fe  42 b4 22 c2 6f f7 d9 f9   ....F... B.".o...
+Data: 0270  9e 68 2e 0a e9 08 fd 38  52 f6 41 59 30 80 d4 a0   .h.....8 R.AY0...
+Data: 0280  78 1c 82 e8 fb ed 7a 1e  6a 92 07 86 70 26 a5 1f   x.....z. j...p&..
+Data: 0290  e3 30 c8 80 10 11 bc 41  51 53 52 a0 6e 2b c7 4b   .0.....A QSR.n+.K
+Data: 0300  fe 6d 69 8d 97 0a cc 1f  f2 63 64 a0 4f 66 72 7e   .mi..... .cd.Ofr~
+Data: 0310  5c f6 79 68 a3 eb b0 99  05 a0 67 19 62 31 fa cd   \.yh.... ..g.b1..
+Data: 0320  75 1c d3 c5 69 69 86 80  1e 2e f4 77 b2 43 56 20   u...ii.. ...w.CV.
+Data: 0330  32 33 8f c0 86 a6 f5 ca  d2 99 8d 6d f0 28 b0 14   23...... ...m.(..
+Data: 0340  6f 16 b0 6f f7 f7 05 9b  5b f7 fe 71 e7 07 7c 52   o..o.... [..q..|R
+Data: 0350  00 75 ca 91 b9 31 fa f8  b8 a9 98 97 17 4a 9e 08   .u...1.. .....J..
+Data: 0360  10 29 5c e8 c1 b5 f4 81  39 d3 ef 54 20 49 32 20   .)\..... 9..T.I2.
+Data: 0370  fe 3c bb b1 a0 e5 ed 79  8c 3c af df f0 1c 48 59   .<.....y .<....HY
+Data: 0380  fc fd 34 a2 2e 8c a6 13  b1 c5 36 f5 12 a6 09 a2   ..4..... ..6.....
+Data: 0390  7b e3 d1 5b bc 5d e3 01  4a 6f d9 9f a8 aa 00 0a   {..[.].. Jo......
+Data: 0400  0a 6e 8b 18 d8 83 0e de  05 49 2d c4 8d 43 aa fb   .n...... .I-..C..
+Data: 0410  84 71 8e f8 1b 7d b1 6e  a8 db 11 da c7 ed 04 b2   .q...}.n ........
+Data: 0420  60 cb 4c c8 61 ce 6a 1b  d8 2d 01 97 64 1a 3d 6d   `.L.a.j. .-..d.=m
+Data: 0430  9b ed e2 1e 93 73 df 6d  a3 a1 c9                  .....s.m ...
+Ç
+Data:  ******* Raw Hex Output - length=218 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 cc 7e 38 40 00 80 11  9a 13 c0 a8 64 25 ac d9   ..~8@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 00 b8  c9 98 0c a5 e9 6f 36 5d   ........ .....o6]
+Data: 0030  8b 4d 89 1c 7d f6 d8 33  f8 82 3c ed b2 39 2a 5a   .M..}..3 ..<..9*Z
+Data: 0040  02 29 af 58 cf 17 bb ac  4c e0 f9 85 5c d8 8c 48   .).X.... L...\..H
+Data: 0050  94 e5 f5 de d7 72 83 02  49 77 ca 97 e9 b5 0c a9   .....r.. Iw......
+Data: 0060  93 c7 3d 5e 5f 34 76 1a  48 08 a5 c8 5b c2 27 56   ..=^_4v. H...[.'V
+Data: 0070  bf 2a 25 4d 90 d3 02 0d  c5 b7 1f 5c 4a 6c bd 62   .*%M.... ...\Jl.b
+Data: 0080  88 55 17 fb d5 2a f3 a6  dc 42 f6 6f 32 5c 83 13   .U...*.. .B.o2\..
+Data: 0090  d9 ec 63 4d 46 bc 59 a8  4b 5d 05 d4 1e 7a 00 2d   ..cMF.Y. K]...z.-
+Data: 0100  27 72 0a 75 7a 3e 39 d8  5a cf c2 c5 cf 9d 4a c8   'r.uz>9. Z.....J.
+Data: 0110  aa b2 16 5f aa a6 cb c6  ff 00 a3 cf 12 16 a7 51   ..._.... .......Q
+Data: 0120  c5 62 28 cd 97 97 1b 86  5e 5f 38 66 60 0e d3 eb   .b(..... ^_8f`...
+Data: 0130  73 8b 6b 33 95 1c 05 3c  03 da                     s.k3...< ..
+äData:  ******* Raw Hex Output - length=699 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  02 ad 7e 39 40 00 80 11  98 31 c0 a8 64 25 ac d9   ..~9@... .1..d%..
+Data: 0020  10 2e f7 cf 01 bb 02 99  60 75 0c a5 e9 6f 36 5d   ........ `u...o6]
+Data: 0030  8b 4d 89 1d 01 9c 57 40  96 ea ff 73 58 ee 6d d1   .M....W@ ...sX.m.
+Data: 0040  6f 1d ab 0f 19 4e 5c 20  e2 7f 4d 10 91 a0 2b fb   o....N\. ..M...+.
+Data: 0050  f0 22 3e 0c 36 61 15 a1  a5 b2 12 10 01 fb bf 6b   .">.6a.. .......k
+Data: 0060  3d 02 1e cf a1 e3 b6 fd  7e f7 14 9e 93 d2 88 20   =....... ~.......
+Data: 0070  6f 22 a0 90 a5 ed c1 76  10 c2 e6 52 b7 26 ce 50   o".....v ...R.&.P
+Data: 0080  83 02 4f 3b dc 7a 33 6d  9d 63 67 99 bb c3 f8 c5   ..O;.z3m .cg.....
+Data: 0090  32 97 c2 50 3f d2 7a 76  45 f2 11 a7 f0 c7 7e ef   2..P?.zv E.....~.
+Data: 0100  8d da ef 24 ba 75 1a 1b  75 23 03 cb 99 a2 60 ea   ...$.u.. u#....`.
+Data: 0110  0e 1e 10 67 52 46 2f ed  2d 28 74 5a 77 43 fb 27   ...gRF/. -(tZwC.'
+Data: 0120  c6 f8 90 84 9e 01 fb 01  e0 dd 17 87 41 2d f0 3f   ........ ....A-.?
+Data: 0130  94 4e 8e 37 8e f1 05 15  ba 2d 8d d1 fb 9f ce bd   .N.7.... .-......
+Data: 0140  7f fd e6 c3 02 4c dd 76  46 61 05 6b d5 29 4e 7a   .....L.v Fa.k.)Nz
+Data: 0150  ec e6 e6 53 05 4e 30 af  c0 19 a0 fc 3e b4 ca 6f   ...S.N0. ....>..o
+Data: 0160  f1 89 eb 61 20 78 86 40  1c 40 26 06 8b b0 2d df   ...a.x.@ .@&...-.
+Data: 0170  4d fb 1f 4f 34 0f 85 8a  11 3e 97 cf f5 88 e8 10   M..O4... .>......
+Data: 0180  35 b1 e7 13 16 14 88 58  64 5b 2a 71 c4 00 ea 3e   5......X d[*q...>
+Data: 0190  44 82 b8 eb 25 fb 84 42  2b dd 9f 2e b7 a4 48 4b   D...%..B +.....HK
+Data: 0200  0f 10 8f a7 0a 6c d9 89  66 5f 15 b1 e0 24 11 da   .....l.. f_...$..
+Data: 0210  0c 8a 50 00 16 cf 3e 77  91 c0 aa b7 29 85 d1 50   ..P...>w ....)..P
+Data: 0220  76 1e 5b 65 89 b9 fa 02  33 73 d7 cd 70 54 9b bf   v.[e.... 3s..pT..
+Data: 0230  fa 89 24 6e bb ca 4b 21  48 23 6f 1a f9 c8 a6 3e   ..$n..K! H#o....>
+Data: 0240  c2 ac 91 a3 0a 7f 9f 4d  fe aa 4a b2 59 fc 9d 03   .......M ..J.Y...
+Data: 0250  58 84 5d 47 be e4 c2 f8  e8 e7 42 12 82 a7 84 ee   X.]G.... ..B.....
+Data: 0260  65 df 7e a2 a4 6a bc b2  0b 2a d7 91 27 80 00 d2   e.~..j.. .*..'...
+Data: 0270  7f e8 1f dd a8 f6 b3 2a  b9 04 bf d4 c7 fa 9a 22   .......* ......."
+Data: 0280  1b b1 8f 2d 6d 8d 2a 01  66 a2 6b 58 4c d7 5d e8   ...-m.*. f.kXL.].
+Data: 0290  59 38 f1 36 f1 28 76 a9  b4 25 a9 7f c5 06 f2 10   Y8.6.(v. .%......
+Data: 0300  f7 a9 29 de 0e 5d cf ba  31 ae 48 e6 5e a4 70 f2   ..)..].. 1.H.^.p.
+Data: 0310  63 56 35 ce ad 96 35 98  96 43 ba 52 b9 4d 6a 11   cV5...5. .C.R.Mj.
+Data: 0320  63 64 de da 3d ff 58 ac  71 ac 6a c1 8c 45 94 f3   cd..=.X. q.j..E..
+Data: 0330  9c 56 c5 96 14 a1 50 63  00 b0 a1 5b 5e 23 5f 4f   .V....Pc ...[^#_O
+Data: 0340  56 22 6d 99 97 e4 68 0a  b2 eb 77 d0 47 8b 33 06   V"m...h. ..w.G.3.
+Data: 0350  a8 99 b0 41 2c b8 6a 6b  b7 47 e0 f0 f4 b4 fd a7   ...A,.jk .G......
+Data: 0360  f7 3e 16 89 10 04 47 b7  bd f3 02 5a c7 44 c3 63   .>....G. ...Z.D.c
+Data: 0370  75 33 5b 8d c1 cb 15 23  02 93 16 76 7e c6 03 c9   u3[....# ...v~...
+Data: 0380  65 c0 af 3c c4 dc 80 fd  69 67 41 2a bf b8 4e 76   e..<.... igA*..Nv
+Data: 0390  60 44 3d 12 e1 ed 71 58  6b 3b 80 14 01 3e 24 b6   `D=...qX k;...>$.
+Data: 0400  5e 69 f9 27 11 82 35 28  da 21 8a 78 d3 39 d0 34   ^i.'..5( .!.x.9.4
+Data: 0410  3e 84 93 cd 55 68 3a 18  48 59 74 6e b6 9c 50 1a   >...Uh:. HYtn..P.
+Data: 0420  44 ff 84 65 8d 1a 9b 95  b9 6e 89 b7 c4 92 3b 72   D..e.... .n....;r
+Data: 0430  32 50 7c 35 1f f9 75 00  2c 69 21                  2P|5..u. ,i!
+Ç
+Data:  ******* Raw Hex Output - length=218 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 cc 7e 3a 40 00 80 11  9a 11 c0 a8 64 25 ac d9   ..~:@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 00 b8  9d 31 0c a5 e9 6f 36 5d   ........ .1...o6]
+Data: 0030  8b 4d 89 1e cb bb da 9e  cc 0a 67 04 90 b4 79 5f   .M...... ..g...y_
+Data: 0040  49 07 ba 27 e9 f8 04 01  89 b5 3c 56 02 b5 a8 1d   I..'.... ..<V....
+Data: 0050  12 79 84 3f e9 a3 fb 73  8a ae 81 41 9a cb cc f3   .y.?...s ...A....
+Data: 0060  94 79 1a 39 92 16 5f c5  77 47 9a 1e 3a 5e 01 3c   .y.9.._. wG..:^.<
+Data: 0070  82 38 e1 96 33 9f 54 18  9b 0c 59 31 d3 87 b1 cb   .8..3.T. ..Y1....
+Data: 0080  58 ce 2d bb 65 52 35 fa  fe 14 01 03 f5 8c 30 f4   X.-.eR5. ......0.
+Data: 0090  fd 8f 25 59 fe 7d 47 42  a2 a8 cf d8 cf a8 86 ef   ..%Y.}GB ........
+Data: 0100  8c a2 1e 96 c5 39 07 3d  5d c4 7a e8 ed d6 63 9e   .....9.= ].z...c.
+Data: 0110  cd 57 0f 91 52 b5 e3 c3  9b ce a6 d1 d6 40 24 85   .W..R... .....@$.
+Data: 0120  10 af 45 b3 e1 22 8a c3  91 2c 66 44 5d 0e 12 74   ..E..".. .,fD]..t
+Data: 0130  8c 64 17 96 98 3e ba 94  31 8b                     .d...>.. 1.
+ÞData:  ******* Raw Hex Output - length=69 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 37 00 00 40 00 38 11  60 e1 ac d9 10 2e c0 a8   .7..@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 23  91 38 00 1b 38 9f 5c e3   d%.....# .8..8.\.
+Data: 0030  0c a6 a9 7f cd 6a 36 2a  19 23 84 97 f7 e1 09 76   .....j6* .#.....v
+Data: 0040  49 41 d2 62 89                                     IA.b.
+×Data:  ******* Raw Hex Output - length=289 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  01 13 00 00 40 00 38 11  60 05 ac d9 10 2e c0 a8   ....@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 ff  88 44 00 1c c3 b3 9f fd   d%...... .D......
+Data: 0030  04 82 7c 69 6e 47 73 dd  75 bb cd ed 58 48 75 da   ..|inGs. u...XHu.
+Data: 0040  6b 7a bb 75 26 60 63 f4  b4 5c 99 b7 ef d8 d8 20   kz.u&`c. .\......
+Data: 0050  f1 85 c6 cc 7f bf e6 79  f8 49 da 06 89 33 59 f7   .......y .I...3Y.
+Data: 0060  a2 36 68 65 42 c5 6e 82  fb 3f 13 70 c7 da 25 cd   .6heB.n. .?.p..%.
+Data: 0070  91 c4 ca f8 82 13 f1 32  fb 7e 55 0b d9 3a 30 d2   .......2 .~U..:0.
+Data: 0080  34 d4 e6 bc a6 77 95 8b  61 74 9c 2d ee 75 a3 ad   4....w.. at.-.u..
+Data: 0090  9a 46 4f c7 83 2f b5 08  6b 7c c4 dc 55 55 a4 16   .FO../.. k|..UU..
+Data: 0100  8f c3 43 4c 50 27 38 19  37 dc 0b d8 ae 16 60 00   ..CLP'8. 7.....`.
+Data: 0110  ad b5 44 85 0a 78 d2 32  b8 3c 3b 3d 6d 88 c0 f6   ..D..x.2 .<;=m...
+Data: 0120  c9 1b d0 91 a5 90 bf cd  ad 70 f7 0c 88 42 1a 56   ........ .p...B.V
+Data: 0130  0c 28 46 d0 74 13 26 84  2b d4 fe 42 17 67 33 88   .(F.t.&. +..B.g3.
+Data: 0140  e6 ee a6 0a 4a 4e 78 c3  20 07 dc a5 2e e4 20 44   ....JNx. .......D
+Data: 0150  5f 84 d0 fa bd 19 f5 81  07 a4 d1 3b 03 9b af 35   _....... ...;...5
+Data: 0160  17 fe e9 a2 05 75 23 ef  6c af 4e fb 3c ca 64 90   .....u#. l.N.<.d.
+Data: 0170  42 72 dd fd 76 da e6 32  e7 e5 aa 21 44 be f9 5c   Br..v..2 ...!D..\
+Data: 0180  e9                                                 .
+…Data:  ******* Raw Hex Output - length=160 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 92 00 00 40 00 38 11  60 86 ac d9 10 2e c0 a8   ....@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 7e  38 c5 00 1d 60 21 c2 16   d%.....~ 8...`!..
+Data: 0030  46 de 85 b1 87 60 14 2c  59 5b bb c8 47 c9 f5 ab   F....`., Y[..G...
+Data: 0040  f9 c9 9a 1f af ae 9e f2  4e 72 b8 6a 84 c2 67 85   ........ Nr.j..g.
+Data: 0050  e3 24 be 5e 5e 5f 37 ce  20 6a 01 bd 46 af 55 32   .$.^^_7. .j..F.U2
+Data: 0060  54 35 b7 0b e9 6d 64 b4  16 a0 22 ef 67 96 65 ee   T5...md. ..".g.e.
+Data: 0070  f3 70 1c 30 96 af 33 f6  50 27 5d 26 a5 df 75 ff   .p.0..3. P']&..u.
+Data: 0080  c3 66 1b 3a 1d 52 3d d3  90 49 20 b5 5b 68 94 e4   .f.:.R=. .I..[h..
+Data: 0090  19 06 2d 4f c0 0d 7f be  16 65 7f 8a 75 59 d1 f0   ..-O.... .e..uY..
+ÞData:  ******* Raw Hex Output - length=69 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 37 00 00 40 00 38 11  60 e1 ac d9 10 2e c0 a8   .7..@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 23  35 41 00 1e 12 65 98 61   d%.....# 5A...e.a
+Data: 0030  7d 7e 8e fb 1f 21 e3 e2  1e 6e 8f 38 99 6e 62 08   }~...!.. .n.8.nb.
+Data: 0040  cc 2d 77 58 48                                     .-wXH
+×Data:  ******* Raw Hex Output - length=289 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  01 13 00 00 40 00 38 11  60 05 ac d9 10 2e c0 a8   ....@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 ff  16 1c 00 1f 98 a2 4e 5a   d%...... ......NZ
+Data: 0030  92 1a 04 ed 54 63 fb 7f  9a 8e e6 2d 06 1b 27 ca   ....Tc.. ...-..'.
+Data: 0040  3b 43 1f 0e 26 5b 3e ba  63 57 04 ec 93 89 c1 53   ;C..&[>. cW.....S
+Data: 0050  38 83 a5 45 c4 1f 85 95  69 99 9c c3 2a 02 e8 61   8..E.... i...*..a
+Data: 0060  be 47 7e e5 32 cc 18 f7  cf a6 ba 27 ab 22 24 f0   .G~.2... ...'."$.
+Data: 0070  66 97 09 98 bb 6e 2c bd  f1 dd 6e 44 8b d4 14 fd   f....n,. ..nD....
+Data: 0080  cb ab 0c ff 43 81 82 39  1c 76 2e fd c6 e5 ad 28   ....C..9 .v.....(
+Data: 0090  de 24 b3 ee e7 45 22 36  a8 53 af 74 36 21 c8 88   .$...E"6 .S.t6!..
+Data: 0100  12 df d3 11 4d 51 6b 00  79 da b2 53 06 04 e5 4a   ....MQk. y..S...J
+Data: 0110  6c 5e f2 a1 db b0 f0 29  a6 af 59 db 20 0a 5a 47   l^.....) ..Y...ZG
+Data: 0120  90 ee 4f 4d e6 6a ff d4  51 0f c0 78 7d 8f 5a fa   ..OM.j.. Q..x}.Z.
+Data: 0130  17 d4 0e f4 e8 e4 8c 4a  1c c5 8a c6 98 01 b2 85   .......J ........
+Data: 0140  ed f7 dd 09 1a 62 a5 45  ec fd 87 50 47 c3 46 b5   .....b.E ...PG.F.
+Data: 0150  65 e8 51 8e 51 25 fd ed  d6 94 a5 99 6e 0d d9 86   e.Q.Q%.. ....n...
+Data: 0160  16 ac 5d 3a 82 ad 8a bc  5d 1b 3c 72 49 09 0e c9   ..]:.... ].<rI...
+Data: 0170  9f ca bb a9 31 6a d7 f4  67 bb 6d 53 c2 b4 1a e5   ....1j.. g.mS....
+Data: 0180  cb                                                 .
+ö"Data:  ******* Raw Hex Output - length=829 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  03 2f 00 00 40 00 38 11  5d e9 ac d9 10 2e c0 a8   ./..@.8. ].......
+Data: 0020  64 25 01 bb f7 cf 03 1b  96 0b 00 20 65 b0 08 fc   d%...... ....e...
+Data: 0030  1b fc 80 1b e6 ae 6c e4  8d 23 cf 16 e9 dc 39 31   ......l. .#....91
+Data: 0040  68 16 09 dc 8f a5 ed 8a  18 df ca b2 74 08 f3 e9   h....... ....t...
+Data: 0050  e2 76 42 12 c1 38 02 00  ca 13 b1 46 86 d6 d2 81   .vB..8.. ...F....
+Data: 0060  69 09 a8 fb 76 85 dd 28  fe e4 4a 98 ab 6e d2 a7   i...v..( ..J..n..
+Data: 0070  3a c8 74 20 96 5e dd ae  bb c6 8b cc b3 71 ca 27   :.t..^.. .....q.'
+Data: 0080  e7 88 21 99 ec b6 72 c9  cb ca 78 8a 2c be 21 bf   ..!...r. ..x.,.!.
+Data: 0090  ea c0 7a f7 ba 5e 58 cb  97 b4 ac fe 57 a5 f5 93   ..z..^X. ....W...
+Data: 0100  df 90 d2 51 32 1f 92 49  34 67 6e 5b 78 d2 3f d6   ...Q2..I 4gn[x.?.
+Data: 0110  67 ea 3b 4d fb 8a ab 43  75 ed 54 63 7c c0 df a5   g.;M...C u.Tc|...
+Data: 0120  bf 50 89 2e 69 e9 91 4b  99 63 41 36 93 7c 2a 6b   .P..i..K .cA6.|*k
+Data: 0130  a5 fc aa 8e a5 3c a6 b9  ec 11 41 72 b1 6e 2a 36   .....<.. ..Ar.n*6
+Data: 0140  59 82 93 4f 18 aa 50 03  1e 91 d1 a1 c6 7b 9b 48   Y..O..P. .....{.H
+Data: 0150  07 5b eb c9 8c 0c 4d 2c  cf c7 bc a5 2f 1b ed a9   .[....M, ..../...
+Data: 0160  90 2a 2a 54 2a 98 e0 40  e6 43 88 e8 62 19 37 40   .**T*..@ .C..b.7@
+Data: 0170  bc 63 32 8b c9 8f 93 cc  5c 8d 28 56 ce 1e 86 00   .c2..... \.(V....
+Data: 0180  0d 2d 47 89 5b 8d ac c3  ae 57 3f 7a 2b 43 40 c6   .-G.[... .W?z+C@.
+Data: 0190  d6 25 b2 9f 8c 63 dc 0e  f4 0d 30 4f b6 04 07 ef   .%...c.. ..0O....
+Data: 0200  9f 0a 71 bb cd c4 d0 0c  5b f8 ff 13 b6 a7 8e 7a   ..q..... [......z
+Data: 0210  ec e5 f7 25 aa 5c 44 69  32 af a7 39 63 f6 73 47   ...%.\Di 2..9c.sG
+Data: 0220  d5 4e ac 30 4c 6b c8 58  84 97 de 43 61 9a 36 be   .N.0Lk.X ...Ca.6.
+Data: 0230  43 43 7d 48 9b cd ca 97  98 f1 46 45 4a 52 45 9d   CC}H.... ..FEJRE.
+Data: 0240  fa 4c 93 0a eb 54 74 55  7b bb 6d cf ad 4a fe 30   .L...TtU {.m..J.0
+Data: 0250  98 02 52 58 66 60 f5 67  62 f1 4d 6f 2b ab cf c3   ..RXf`.g b.Mo+...
+Data: 0260  64 2b dd 1c b6 6f d2 98  60 2f b0 54 cd c1 f3 5f   d+...o.. `/.T..._
+Data: 0270  18 b1 44 42 31 f4 c2 ee  b9 fe 2e 5e 70 a3 2b 88   ..DB1... ...^p.+.
+Data: 0280  ee e9 84 74 1b d0 e5 e4  53 ee 24 52 85 1e 9c 55   ...t.... S.$R...U
+Data: 0290  b1 1d 79 cc fd de 72 32  00 0a f7 34 58 f9 1c 37   ..y...r2 ...4X..7
+Data: 0300  3d 7d 1e 71 a2 89 d3 a7  4d d4 9c 7d a6 1b 4f 86   =}.q.... M..}..O.
+Data: 0310  0d 02 30 85 2b e2 44 f1  6c 61 71 b7 e4 ae e1 67   ..0.+.D. laq....g
+Data: 0320  60 b8 4c f7 e4 14 df af  11 48 4f 8c 6a 4b 66 d1   `.L..... .HO.jKf.
+Data: 0330  c3 69 44 11 46 9e 82 d6  7f 31 d4 1c 7d c8 02 c1   .iD.F... .1..}...
+Data: 0340  17 87 e3 a6 10 04 d8 b4  03 95 fa ff f5 c9 19 10   ........ ........
+Data: 0350  0a 74 38 23 aa b5 c9 d9  84 0a e4 e2 65 23 19 e6   .t8#.... ....e#..
+Data: 0360  1c c5 42 38 86 9f d0 ea  fc 52 10 fe 20 83 6d 67   ..B8.... .R....mg
+Data: 0370  31 5c 36 9b ff f8 95 4d  8c 93 6d 73 bb fb 84 2c   1\6....M ..ms...,
+Data: 0380  d0 6e 4d 3f 74 55 a6 1a  10 60 3a 06 c7 35 d2 90   .nM?tU.. .`:..5..
+Data: 0390  77 7f 42 87 4f 6c e9 3f  1f 67 f7 06 f4 11 20 6d   w.B.Ol.? .g.....m
+Data: 0400  ac 8d 86 6b de a1 4e ba  9d 26 ec 8f 3e 20 b8 ab   ...k..N. .&..>...
+Data: 0410  99 20 3d 93 7e 55 06 8e  26 aa 34 b2 c1 28 0f 78   ..=.~U.. &.4..(.x
+Data: 0420  57 e9 ef 33 05 1e 3b 62  52 d2 e8 74 07 c2 01 9a   W..3..;b R..t....
+Data: 0430  fc 6d c0 ae a7 2f 97 69  37 28 10 f9 7b a0 4f 7a   .m.../.i 7(..{.Oz
+Data: 0440  42 29 ed e0 a5 84 9d bc  da 8d 8d 90 2f c5 a5 17   B)...... ..../...
+Data: 0450  ad b2 25 cf 84 3f 8c d9  d6 ff 7f b5 1f 84 b0 ce   ..%..?.. ........
+Data: 0460  08 66 1c 6d dd d2 39 64  ab 7e 34 db 52 18 de 63   .f.m..9d .~4.R..c
+Data: 0470  4b 74 d1 42 95 dd 1e 46  b6 71 0e 44 f9 d0 90 ea   Kt.B...F .q.D....
+Data: 0480  9c 25 af b4 10 44 4a de  c1 b2 45 72 82 39 3f 38   .%...DJ. ..Er.9?8
+Data: 0490  12 2b 18 fb 58 5f 6e 1d  bf 51 43 2e fe d0 c7 77   .+..X_n. .QC....w
+Data: 0500  e0 34 da 90 e0 04 d0 2a  51 91 d8 12 57 71 a6 9d   .4.....* Q...Wq..
+Data: 0510  48 af ea de f4 7c 10 2f  7e 05 61 05 61            H....|./ ~.a.a
+±Data:  ******* Raw Hex Output - length=142 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 80 00 00 40 00 38 11  60 98 ac d9 10 2e c0 a8   ....@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 6c  32 ce 00 21 9c 3f b9 a3   d%.....l 2..!.?..
+Data: 0030  14 13 8d 12 48 a9 63 7f  ad d6 5b a4 01 2a a7 08   ....H.c. ..[..*..
+Data: 0040  21 e1 28 e7 52 80 86 24  e4 3a e0 bf a6 1d 1d a4   !.(.R..$ .:......
+Data: 0050  43 da d9 5c 4c ec 55 2c  54 66 5b fb b6 4e 02 90   C..\L.U, Tf[..N..
+Data: 0060  f3 70 2e 70 53 37 b5 34  84 2e c4 20 ab d9 38 ed   .p.pS7.4 ......8.
+Data: 0070  fc 11 53 ed 1d 4d e6 1f  fa a3 98 35 04 fc 8b bb   ..S..M.. ...5....
+Data: 0080  a1 7e 67 5e ff 16 29 cb  71 c0 26 28 2f 25         .~g^..). q.&(/%
+âData:  ******* Raw Hex Output - length=72 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 3a 00 00 40 00 38 11  60 de ac d9 10 2e c0 a8   .:..@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 26  5e 2a 00 22 59 69 ca a3   d%.....& ^*."Yi..
+Data: 0030  6a 3d 69 4e 61 e3 fb c5  bb 24 5c ee 24 a4 20 77   j=iNa... .$\.$..w
+Data: 0040  a7 fa d4 54 bf 8f d7 a5                            ...T.... 
+±Data:  ******* Raw Hex Output - length=86 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 48 7e 3b 40 00 80 11  9a 94 c0 a8 64 25 ac d9   .H~;@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 00 34  0b 7b 0c a5 e9 6f 36 5d   .......4 .{...o6]
+Data: 0030  8b 4d 89 1f 5c a6 1f bc  a1 85 c3 2b 3d 8a 5e 9b   .M..\... ...+=.^.
+Data: 0040  a8 d7 61 9c 5c 85 d8 e6  5c 0f 87 68 ac f3 32 84   ..a.\... \..h..2.
+Data: 0050  c9 6a 24 ff 69 58                                  .j$.iX
+êData:  ******* Raw Hex Output - length=80 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 42 7e 3c 40 00 80 11  9a 99 c0 a8 64 25 ac d9   .B~<@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 00 2e  29 c1 0c a5 e9 6f 36 5d   ........ )....o6]
+Data: 0030  8b 4d 89 20 3a 4f 0c 6b  85 31 b4 35 28 56 42 b7   .M..:O.k .1.5(VB.
+Data: 0040  bc 2f 39 7f 3c 9c 94 72  37 38 89 60 86 52 c0 b8   ./9.<..r 78.`.R..
+±Data:  ******* Raw Hex Output - length=86 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 48 7e 3d 40 00 80 11  9a 92 c0 a8 64 25 ac d9   .H~=@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 00 34  17 f1 0c a5 e9 6f 36 5d   .......4 .....o6]
+Data: 0030  8b 4d 89 21 38 53 43 14  a5 de e8 d5 42 4a b1 a0   .M.!8SC. ....BJ..
+Data: 0040  bc 1f fe 41 98 81 23 08  1f ca 22 f3 65 14 5f a2   ...A..#. ..".e._.
+Data: 0050  85 c9 21 d8 a8 4b                                  ..!..K
+®Data:  ******* Raw Hex Output - length=83 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 45 7e 3e 40 00 80 11  9a 94 c0 a8 64 25 ac d9   .E~>@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 00 31  28 70 0c a5 e9 6f 36 5d   .......1 (p...o6]
+Data: 0030  8b 4d 89 22 17 6f f1 bd  5b b0 32 1f b3 3b 44 71   .M.".o.. [.2..;Dq
+Data: 0040  89 58 b7 6c 33 a5 c4 6f  e8 27 a4 4a 9d 2e d8 e0   .X.l3..o .'.J....
+Data: 0050  db d3 15                                           ...
+×Data:  ******* Raw Hex Output - length=289 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  01 13 00 00 40 00 38 11  60 05 ac d9 10 2e c0 a8   ....@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 ff  8b 93 00 23 41 ad 86 3a   d%...... ...#A..:
+Data: 0030  1e b5 45 84 dc e6 e4 3a  d2 34 8f ac 0c e0 6d 1d   ..E....: .4....m.
+Data: 0040  c2 20 54 bf 8e a3 e0 c7  49 f1 7b 8e 5f fd 7a 99   ..T..... I.{._.z.
+Data: 0050  f0 04 d9 7b cc d0 21 5a  19 c9 5c 19 c6 6e f3 8a   ...{..!Z ..\..n..
+Data: 0060  f1 e9 72 62 6e 2c e8 e5  f4 45 a2 5e c1 00 5b b5   ..rbn,.. .E.^..[.
+Data: 0070  7e 61 f9 44 1a 1a f6 21  4f ea 10 7c 04 44 a7 85   ~a.D...! O..|.D..
+Data: 0080  2e a3 cf 8f 40 d1 59 18  06 f2 f4 2d 63 71 bd a2   ....@.Y. ...-cq..
+Data: 0090  40 f1 df d0 ec 8e cc ad  dd dc 5e 94 42 47 fe 2e   @....... ..^.BG..
+Data: 0100  8c 70 f1 2a 28 a8 f6 31  94 9d 1d ff c3 1a e3 ae   .p.*(..1 ........
+Data: 0110  4c 62 b4 9e df eb ab c6  1a b6 4d 2c 99 46 40 5f   Lb...... ..M,.F@_
+Data: 0120  7a d8 a8 bf 36 6d c6 8f  11 09 d6 db 1d 8a d4 8c   z...6m.. ........
+Data: 0130  61 f8 8b 8a a2 00 5f 4d  4b 61 b8 23 b9 16 62 94   a....._M Ka.#..b.
+Data: 0140  3a 76 37 73 14 17 5e e3  93 10 77 ec d0 95 ed 83   :v7s..^. ..w.....
+Data: 0150  9b c4 c8 cd 7a 8b 7d b8  42 84 a0 88 ef 4a f3 08   ....z.}. B....J..
+Data: 0160  09 7a ef fa 1f 62 d5 22  ed c6 ba c2 2d 0e 17 5f   .z...b." ....-.._
+Data: 0170  a1 48 a1 53 27 be 87 b7  f2 56 0d 4c 7d 58 79 f0   .H.S'... .V.L}Xy.
+Data: 0180  51                                                 Q
+Ó!Data:  ******* Raw Hex Output - length=798 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  03 10 00 00 40 00 38 11  5e 08 ac d9 10 2e c0 a8   ....@.8. ^.......
+Data: 0020  64 25 01 bb f7 cf 02 fc  c1 7d 00 24 58 26 c8 13   d%...... .}.$X&..
+Data: 0030  fd 07 84 63 d7 ce 7b ee  5c fd 1d 72 59 d1 c5 6b   ...c..{. \..rY..k
+Data: 0040  08 41 ec 59 b3 41 fd 55  aa fa 62 8d 6c 90 85 ec   .A.Y.A.U ..b.l...
+Data: 0050  5c 68 eb dd eb 9d 67 e1  36 f4 63 ee f5 ec dc 11   \h....g. 6.c.....
+Data: 0060  9f 60 41 9b 85 f8 23 6a  e1 63 3d c5 77 5a bc ad   .`A...#j .c=.wZ..
+Data: 0070  86 2d 39 c6 e1 a3 41 f1  b0 82 d1 d8 6b 22 31 b5   .-9...A. ....k"1.
+Data: 0080  42 c6 bb b0 99 07 a4 1c  86 a2 f0 f7 ae f0 85 73   B....... .......s
+Data: 0090  9a de 8e d2 8c cc 02 44  1f db 79 d1 2c ad 3a 46   .......D ..y.,.:F
+Data: 0100  5a 43 1d 0f a3 0e e3 60  5d 33 be 08 8b f0 93 83   ZC.....` ]3......
+Data: 0110  b4 c5 f2 ed db e7 bb 22  60 50 7d fc 82 bb 25 bc   ......." `P}...%.
+Data: 0120  1b b6 23 80 d0 4c 1a 1c  6d 40 96 e3 9b a9 73 52   ..#..L.. m@....sR
+Data: 0130  66 69 d2 c5 86 aa 09 92  d0 91 5b 79 a8 6d d0 83   fi...... ..[y.m..
+Data: 0140  2b f7 e7 63 f4 30 69 b6  61 af 95 9c 91 b0 6b fa   +..c.0i. a.....k.
+Data: 0150  af dc 4f 91 aa 21 93 bf  9b 86 93 9f cb eb 7a 51   ..O..!.. ......zQ
+Data: 0160  a7 3c 80 3b b3 41 b2 bc  c8 75 78 25 83 fe 03 8d   .<.;.A.. .ux%....
+Data: 0170  fc 03 1d a0 42 61 82 ec  5d e6 3d 6c fa 55 ea e3   ....Ba.. ].=l.U..
+Data: 0180  dc 9a f2 b2 fb a4 61 cd  36 98 f9 8e dd 5f fb a6   ......a. 6...._..
+Data: 0190  28 5a 2b f5 25 c7 d5 17  0b 6e 80 9d d0 55 a3 9e   (Z+.%... .n...U..
+Data: 0200  5e 60 e0 47 f9 12 84 2c  cd 7c 82 ea 3f c7 67 ba   ^`.G..., .|..?.g.
+Data: 0210  74 b5 22 50 61 18 80 eb  eb 07 8a 6a 9f 0a b4 88   t."Pa... ...j....
+Data: 0220  39 c2 d4 a9 87 35 3a bf  de aa 9d 32 10 77 04 b4   9....5:. ...2.w..
+Data: 0230  0e 52 5c 48 c0 29 a2 41  eb 52 6a 4b ee 15 a2 9b   .R\H.).A .RjK....
+Data: 0240  17 65 26 10 7d e3 7a 3b  92 d2 1a bd 88 27 cf 4e   .e&.}.z; .....'.N
+Data: 0250  8d 37 a0 6d c8 fd 8a 3d  03 06 26 2c 24 49 ef 84   .7.m...= ..&,$I..
+Data: 0260  7b f1 8a ce 74 62 da 20  ea 53 1f 31 11 c6 95 ca   {...tb.. .S.1....
+Data: 0270  6c 02 dc a7 b3 c6 75 80  ca f2 b7 24 d8 40 79 0e   l.....u. ...$.@y.
+Data: 0280  df 2e c2 b6 98 a3 16 55  25 a6 8d bf 4c c4 c0 63   .......U %...L..c
+Data: 0290  5c ef c6 15 52 54 9d be  ab 03 cd 8b d8 10 8c 68   \...RT.. .......h
+Data: 0300  ea 5f 61 88 3f b0 3d 44  00 ad 43 bc 28 46 f1 97   ._a.?.=D ..C.(F..
+Data: 0310  26 3f 4d 0c b7 dd 4b 0a  fa 77 23 15 0c d3 2d f1   &?M...K. .w#...-.
+Data: 0320  6a 18 86 b5 84 ba da 03  a5 f0 3b 61 a2 6b 46 12   j....... ..;a.kF.
+Data: 0330  3f 00 9c 3a e3 3f 70 59  ab cd 75 9e 7f ff 4d d7   ?..:.?pY ..u...M.
+Data: 0340  1d e6 bc bb 3a 70 3f 49  10 1e b4 16 be db 62 1d   ....:p?I ......b.
+Data: 0350  11 9d 09 ec 34 0d c5 b0  f3 50 2c 3d 55 4f af c1   ....4... .P,=UO..
+Data: 0360  4b f7 60 ad 1f 20 7f 77  de 63 7a e0 4c 4a 4c cb   K.`....w .cz.LJL.
+Data: 0370  f9 6d 5b b1 74 69 6f 91  f6 ee e2 a7 82 7d f6 ad   .m[.tio. .....}..
+Data: 0380  8b 42 35 d9 d3 b0 68 e1  a3 5e 24 0a ac 8b ad ca   .B5...h. .^$.....
+Data: 0390  73 8b 40 00 a5 6e b9 41  78 96 c6 43 8b 36 89 32   s.@..n.A x..C.6.2
+Data: 0400  6b e6 dc f8 69 0c 66 49  d4 4d 6a c7 3b cf 9c 37   k...i.fI .Mj.;..7
+Data: 0410  e0 18 2f 58 b0 cf 72 dc  d4 0d e0 96 1b 40 1d 4d   ../X..r. .....@.M
+Data: 0420  c2 c9 45 20 05 12 d4 62  a6 05 c4 2e 9b 35 c1 ce   ..E....b .....5..
+Data: 0430  f1 9b 69 d7 99 d8 02 5a  5d ea 52 5a 67 a7 71 c8   ..i....Z ].RZg.q.
+Data: 0440  41 88 4f 93 ba 74 8e 11  fa 64 33 b8 86 23 c8 4a   A.O..t.. .d3..#.J
+Data: 0450  5f 5d 79 ff 61 45 e4 10  0b 8f 55 a4 8c c8 6e a7   _]y.aE.. ..U...n.
+Data: 0460  b6 b1 d9 56 39 da 95 c1  17 f4 f0 bf 82 c7 69 6c   ...V9... ......il
+Data: 0470  76 2a d1 38 f6 31 08 be  87 7f d0 c7 cb 85 74 75   v*.8.1.. ......tu
+Data: 0480  10 a7 8b 4d 91 f7 e5 fe  2a 6f 3e 24 33 db d0 05   ...M.... *o>$3...
+Data: 0490  99 22 9e 75 e9 62 6d ae  a7 d5 a8 c0 85 62         .".u.bm. .....b
+®Data:  ******* Raw Hex Output - length=83 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 45 7e 3f 40 00 80 11  9a 93 c0 a8 64 25 ac d9   .E~?@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 00 31  19 a4 0c a5 e9 6f 36 5d   .......1 .....o6]
+Data: 0030  8b 4d 89 23 56 4f df 62  aa 8e f5 09 1f 6c aa a7   .M.#VO.b .....l..
+Data: 0040  b6 80 d0 31 19 5f 8e 64  c7 e8 88 d8 54 4d ba 6c   ...1._.d ....TM.l
+Data: 0050  14 54 88                                           .T.
+ÙData:  ******* Raw Hex Output - length=291 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  01 15 7e 40 40 00 80 11  99 c2 c0 a8 64 25 ac d9   ..~@@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 01 01  29 43 0c a5 e9 6f 36 5d   ........ )C...o6]
+Data: 0030  8b 4d 89 24 a9 e8 05 af  c2 32 c6 04 9d 6f ab 70   .M.$.... .2...o.p
+Data: 0040  e0 43 ab d0 67 9a d8 db  29 85 0e 74 4b ca 35 ab   .C..g... )..tK.5.
+Data: 0050  9e 76 a9 ca 66 34 db 73  f7 34 e9 21 26 77 71 98   .v..f4.s .4.!&wq.
+Data: 0060  e3 47 74 01 3d c8 6d 15  e4 00 ac d3 d3 a6 de 5f   .Gt.=.m. ......._
+Data: 0070  09 3e 23 b4 0f 3f 2a af  8b 6b 5a 10 38 f8 0d de   .>#..?*. .kZ.8...
+Data: 0080  80 ea 96 31 2a 64 4a 5d  3a 27 e2 7b 5d 22 a4 d1   ...1*dJ] :'.{]"..
+Data: 0090  3e 9a 2a 7b 98 7b 27 60  21 4c fe 38 2b 03 8a f4   >.*{.{'` !L.8+...
+Data: 0100  5d 9e cd d9 42 c6 57 34  25 af f7 4d 7c b0 9c 6e   ]...B.W4 %..M|..n
+Data: 0110  1d 13 a4 f5 6d 00 48 0d  ca fb bc 70 b2 df 51 9a   ....m.H. ...p..Q.
+Data: 0120  a1 43 86 79 30 51 52 cc  f5 65 75 2c 06 66 71 60   .C.y0QR. .eu,.fq`
+Data: 0130  64 e9 bb 1d 57 df f9 b0  5a 71 50 21 15 1d 73 5c   d...W... ZqP!..s\
+Data: 0140  bd 72 cd 64 f4 23 6a 7c  a4 f5 4c 98 01 aa 9e cc   .r.d.#j| ..L.....
+Data: 0150  4d dd c8 42 cb f9 c3 e4  1f 57 b6 1f f8 6a b9 d3   M..B.... .W...j..
+Data: 0160  b3 89 68 16 a7 06 45 c3  13 b6 64 77 b7 f3 81 6e   ..h...E. ..dw...n
+Data: 0170  1f f3 f2 81 fa 2d 0c 56  fa fe 17 e3 8a 54 cd 9e   .....-.V .....T..
+Data: 0180  ef f7 27                                           ..'
+ž	Data:  ******* Raw Hex Output - length=182 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 a8 7e 41 40 00 80 11  9a 2e c0 a8 64 25 ac d9   ..~A@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 00 94  43 cb 0c a5 e9 6f 36 5d   ........ C....o6]
+Data: 0030  8b 4d 89 25 5c 83 9c 50  e8 bd e1 ed 23 4e 0e cb   .M.%\..P ....#N..
+Data: 0040  d3 62 b9 cf ed 4e c2 7b  8c fd 15 ec 77 0b f8 30   .b...N.{ ....w..0
+Data: 0050  6a 5e 0a b2 fb b9 85 f4  af 44 2e 2e 64 c9 66 f4   j^...... .D..d.f.
+Data: 0060  7d 86 d9 0f b8 16 bc b9  e0 1d 37 8e c0 4d db 55   }....... ..7..M.U
+Data: 0070  50 45 fe b7 6c 61 ea 84  8d aa 5b db af 4b 14 1b   PE..la.. ..[..K..
+Data: 0080  83 1b 5d 97 19 ca c3 29  fc 05 01 20 15 fd 00 bb   ..]....) ........
+Data: 0090  0b 3d 17 51 5a a9 e2 01  41 43 f3 44 b6 61 6d bb   .=.QZ... AC.D.am.
+Data: 0100  e6 68 8c e1 9e 39 e7 74  99 2b 8d dc 37 a0 b6 3c   .h...9.t .+..7..<
+Data: 0110  8e 2e 95 a4 2d 6e                                  ....-n
+¶'Data:  ******* Raw Hex Output - length=943 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  03 a1 7e 42 40 00 80 11  97 34 c0 a8 64 25 ac d9   ..~B@... .4..d%..
+Data: 0020  10 2e f7 cf 01 bb 03 8d  8c 4a 0c a5 e9 6f 36 5d   ........ .J...o6]
+Data: 0030  8b 4d 89 26 af e9 5a 3d  4d b1 22 c9 9c 79 7c 6c   .M.&..Z= M."..y|l
+Data: 0040  b7 e9 cb 45 76 54 ee 0a  06 d7 1f 8b 78 d3 78 7e   ...EvT.. ....x.x~
+Data: 0050  bb ee e3 17 70 00 4e 21  a5 f3 c9 27 29 de 9b 0c   ....p.N! ...')...
+Data: 0060  22 4d e0 d2 79 8b 46 ce  17 80 25 07 1c 04 34 c4   "M..y.F. ..%...4.
+Data: 0070  bd bf b5 bb 11 e9 05 5a  f6 75 a5 78 ba 94 c9 4f   .......Z .u.x...O
+Data: 0080  8e d2 e6 f0 8c e3 13 c2  97 27 35 1e 60 30 9a c0   ........ .'5.`0..
+Data: 0090  6a e0 b5 a8 de 07 08 97  45 0c 69 2a 7b 8c fc 0c   j....... E.i*{...
+Data: 0100  4c f3 cb 72 2e d0 e0 01  6f d7 7e 05 16 5f 15 cd   L..r.... o.~.._..
+Data: 0110  1f a3 38 02 c4 61 b6 b2  e8 6b 5f dc c8 33 b0 65   ..8..a.. .k_..3.e
+Data: 0120  76 b8 f0 0a 65 b0 d9 a9  5e a5 33 e9 8c dc 34 58   v...e... ^.3...4X
+Data: 0130  0f 89 ad 43 9a 53 1c df  3e 4b af 1c d7 fb 28 c3   ...C.S.. >K....(.
+Data: 0140  f7 40 4a b7 ed 6d 55 de  5f 94 55 d8 9d 1d f0 a8   .@J..mU. _.U.....
+Data: 0150  43 58 ab d0 ad 1a 94 70  77 6f 45 19 98 5c 09 f5   CX.....p woE..\..
+Data: 0160  b5 8d e8 d5 cb 0b b5 d4  d9 68 d9 f1 ba 21 3d 3e   ........ .h...!=>
+Data: 0170  aa 40 2a af ca 33 15 41  35 9e e9 91 4b 96 ef 0f   .@*..3.A 5...K...
+Data: 0180  b7 a2 cf 49 ef eb cb d1  24 65 2f ed 72 65 97 0d   ...I.... $e/.re..
+Data: 0190  b1 be d3 6b 5a 1d 61 8a  48 ed 59 b2 fe cb 10 a5   ...kZ.a. H.Y.....
+Data: 0200  26 35 11 3c 81 46 5e 8f  55 f4 eb 17 eb 57 1f e5   &5.<.F^. U....W..
+Data: 0210  18 9b 2b 6b 7f 7e 1f b7  5a ee 37 b5 5b 94 b7 2f   ..+k.~.. Z.7.[../
+Data: 0220  69 cd 5b 20 96 04 b8 46  0a 26 d3 9b 4b 18 d6 8f   i.[....F .&..K...
+Data: 0230  39 af 8d 12 a5 19 94 56  b9 44 9a bf 1b 3d b8 75   9......V .D...=.u
+Data: 0240  a0 12 d8 5b 37 79 94 bf  9a 95 19 99 6c 67 d6 35   ...[7y.. ....lg.5
+Data: 0250  1a 9b d8 20 dd ff 35 bb  de 4a 44 4a a5 55 93 6f   ......5. .JDJ.U.o
+Data: 0260  44 a5 61 62 58 66 d7 28  28 b8 14 d7 ab 49 59 bc   D.abXf.( (....IY.
+Data: 0270  6b b8 d9 85 41 00 fe 1b  eb e2 6f cc 25 6b 5a 06   k...A... ..o.%kZ.
+Data: 0280  6f 2a 1b c1 54 ff e7 25  f9 7f fe 76 80 b1 cc 62   o*..T..% ...v...b
+Data: 0290  9b 26 55 30 87 a0 7b b8  72 79 db 43 e7 bd 99 58   .&U0..{. ry.C...X
+Data: 0300  cb 13 24 6a 62 28 c9 5d  93 c5 90 fe cf ea a8 44   ..$jb(.] .......D
+Data: 0310  6d e5 f3 88 d3 42 e8 1c  0f 88 fd 33 e7 49 70 bf   m....B.. ...3.Ip.
+Data: 0320  b4 f5 87 e7 a0 d3 1a d6  74 7d c1 a7 81 f8 e2 e7   ........ t}......
+Data: 0330  f0 d2 6a 70 68 d7 cf 87  ee 8b a4 36 0e 65 aa b7   ..jph... ...6.e..
+Data: 0340  b9 07 c3 0a 22 b3 62 bd  b3 0b c8 d0 6e 2f 0b 64   ....".b. ....n/.d
+Data: 0350  41 7d f4 89 b4 e2 5f 97  ea 29 0b ba e1 bb bc 34   A}...._. .).....4
+Data: 0360  3c c7 6d f4 79 ce e4 6d  22 d3 9b 57 d2 0f 5f 0e   <.m.y..m "..W.._.
+Data: 0370  e5 be 57 77 82 4d 94 15  56 40 fa 9e 85 de 0f 73   ..Ww.M.. V@.....s
+Data: 0380  b0 66 e8 fa 5b 34 52 a3  07 54 eb cf 24 72 31 5e   .f..[4R. .T..$r1^
+Data: 0390  53 0d 0d 47 cd 2d bb 1f  d8 5b 09 19 a2 2c ee 58   S..G.-.. .[...,.X
+Data: 0400  d1 f7 c6 b7 f9 af f3 b5  8d fc b9 dc bc fa 96 49   ........ .......I
+Data: 0410  fa 4f 37 d5 d1 e3 e0 bf  8e 31 94 59 58 13 e6 40   .O7..... .1.YX..@
+Data: 0420  fa 46 d8 0a 46 79 26 a1  aa 07 8f 39 c6 35 01 bd   .F..Fy&. ...9.5..
+Data: 0430  cc f3 0f 27 4f f5 b1 03  af 39 82 81 98 7e 42 30   ...'O... .9...~B0
+Data: 0440  61 6a 70 fa 70 48 c6 e4  ca e8 46 8f b6 4f df 05   ajp.pH.. ..F..O..
+Data: 0450  88 10 68 56 08 8f e0 d5  23 a8 3a 4a 1a 53 38 11   ..hV.... #.:J.S8.
+Data: 0460  f5 d8 c5 f4 ab 2c 29 f4  9b 8f ff 1a 4a 70 1e fe   .....,). ....Jp..
+Data: 0470  87 05 31 39 e5 a8 54 ec  6f e2 1c 84 e8 52 65 05   ..19..T. o....Re.
+Data: 0480  8d eb 42 5e e8 2b 99 7c  2b af fc 5d e1 12 7e 20   ..B^.+.| +..]..~.
+Data: 0490  2e c8 14 f4 08 2b b3 78  6b 33 4d ff 91 d4 63 30   .....+.x k3M...c0
+Data: 0500  4b a9 54 c8 50 1f 6e 52  bd 98 39 2d ee d0 ac 9e   K.T.P.nR ..9-....
+Data: 0510  06 db 17 cf 76 62 7a 27  0d 5d 3b 60 a3 ae 4e 76   ....vbz' .];`..Nv
+Data: 0520  3c 12 ad 5d 26 18 e3 3d  fd 3e f4 d2 29 06 f3 c7   <..]&..= .>..)...
+Data: 0530  fe 5b 9d d2 da 48 b2 da  43 c3 21 e3 8c ff 54 1f   .[...H.. C.!...T.
+Data: 0540  87 f8 46 d9 55 cf ea 99  e6 3d af 79 29 4b 62 39   ..F.U... .=.y)Kb9
+Data: 0550  5b 0b 24 c3 56 cc db 3c  e1 e0 a0 61 b1 d8 68 d8   [.$.V..< ...a..h.
+Data: 0560  e0 3d 86 3e 05 44 cd ab  f8 27 1d 2d ff e1 21 88   .=.>.D.. .'.-..!.
+Data: 0570  15 6d 1b e8 7d cd e7 31  f2 de 80 13 6a 1c 5c 82   .m..}..1 ....j.\.
+Data: 0580  bf 46 5b ac 9a 9d 9d c5  f7 a2 eb e1 b7 df 7a      .F[..... ......z
+©	Data:  ******* Raw Hex Output - length=192 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 b2 7e 43 40 00 80 11  9a 22 c0 a8 64 25 ac d9   ..~C@... ."..d%..
+Data: 0020  10 2e f7 cf 01 bb 00 9e  fe 99 0c a5 e9 6f 36 5d   ........ .....o6]
+Data: 0030  8b 4d 89 27 ce 46 ad 92  fe aa ab 8f 23 7f ca 5f   .M.'.F.. ....#.._
+Data: 0040  cc 51 43 ab 59 44 84 9d  0e af a9 7e 12 f0 05 34   .QC.YD.. ...~...4
+Data: 0050  47 5e 71 14 c2 08 e4 d0  29 54 4e 17 4b 15 8d 2b   G^q..... )TN.K..+
+Data: 0060  65 d5 b1 c1 30 9c 7e 47  d0 ac b5 27 68 3a 41 9a   e...0.~G ...'h:A.
+Data: 0070  4e 6c 18 15 d1 79 34 08  8c 01 1f 70 91 ef ea 1e   Nl...y4. ...p....
+Data: 0080  a5 3d 69 5a 63 0c 14 98  23 71 5b a7 8a 55 e4 d3   .=iZc... #q[..U..
+Data: 0090  3f ed b3 31 8a 10 91 43  e8 2b b9 09 68 87 6d b6   ?..1...C .+..h.m.
+Data: 0100  e9 84 61 a0 ce 02 d9 02  fe 6a 54 e8 ec a0 86 3b   ..a..... .jT....;
+Data: 0110  60 28 e8 16 87 1f 21 7e  f7 2a 99 f6 62 c7 41 87   `(....!~ .*..b.A.
+²Data:  ******* Raw Hex Output - length=87 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 49 00 00 40 00 38 11  60 cf ac d9 10 2e c0 a8   .I..@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 35  53 aa 00 25 50 30 b8 69   d%.....5 S..%P0.i
+Data: 0030  2e 4b cf e9 a7 6d a9 44  90 07 b4 14 43 34 d6 74   .K...m.D ....C4.t
+Data: 0040  13 61 1b 63 7d 3b 42 5e  33 fa a9 79 92 02 b9 f6   .a.c};B^ 3..y....
+Data: 0050  84 68 e0 dc 5c fd 41                               .h..\.A
+âData:  ******* Raw Hex Output - length=72 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 3a 00 00 40 00 38 11  60 de ac d9 10 2e c0 a8   .:..@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 26  70 3d 00 26 08 7e eb 03   d%.....& p=.&.~..
+Data: 0030  91 51 42 c4 22 c4 05 59  dd 0d 26 98 07 9f 38 89   .QB."..Y ..&...8.
+Data: 0040  b4 60 66 f2 fe 19 66 ee                            .`f...f. 
+¬Data:  ******* Raw Hex Output - length=308 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  01 26 00 00 40 00 38 11  5f f2 ac d9 10 2e c0 a8   .&..@.8. _.......
+Data: 0020  64 25 01 bb f7 cf 01 12  3e 38 00 27 06 51 21 5f   d%...... >8.'.Q!_
+Data: 0030  b7 1c 17 4b fe fc b1 a7  64 22 fb 54 0c 47 3c 69   ...K.... d".T.G<i
+Data: 0040  c0 4a f4 26 51 ea 60 27  e6 fc ea 83 f4 41 3d be   .J.&Q.`' .....A=.
+Data: 0050  d9 e8 99 c1 d5 9b 99 c6  df 5a 22 80 9a 53 d9 82   ........ .Z"..S..
+Data: 0060  4a 25 48 72 7b 06 c6 12  40 d5 44 71 72 15 84 46   J%Hr{... @.Dqr..F
+Data: 0070  fc 2e d2 f2 a8 d4 07 4b  fe a0 8d 5b f1 64 8d 57   .......K ...[.d.W
+Data: 0080  50 f2 3d 1e 11 f0 a1 58  13 36 60 8b 7a c4 54 1a   P.=....X .6`.z.T.
+Data: 0090  03 ae a4 89 b5 f1 37 71  e6 a8 9d 6b 70 4c e0 31   ......7q ...kpL.1
+Data: 0100  e3 36 96 87 cd 23 be e7  ab 08 60 36 83 1f 85 9d   .6...#.. ..`6....
+Data: 0110  fc 10 f0 44 bf 0b 1a 39  8c 90 fd e9 17 ee 90 f7   ...D...9 ........
+Data: 0120  be 51 ca 38 68 37 e7 23  5a d1 89 f6 cf c1 02 73   .Q.8h7.# Z......s
+Data: 0130  69 43 6a e0 5a 16 14 0e  cf b9 77 3c a6 45 c9 01   iCj.Z... ..w<.E..
+Data: 0140  3f 3e 36 d4 61 d2 ef d4  b6 5c d3 d8 34 ca 27 56   ?>6.a... .\..4.'V
+Data: 0150  2e 48 ec c8 61 ab 80 d1  b4 be ff ca 4f 8d ae 7d   .H..a... ....O..}
+Data: 0160  68 56 9f 39 c3 6d 93 a3  fd 69 37 fb dd 0a 4b e1   hV.9.m.. .i7...K.
+Data: 0170  2a 18 1e c7 e6 1d 70 37  b8 25 a7 5b f8 95 9f e3   *.....p7 .%.[....
+Data: 0180  d8 7e 44 6d 67 f7 25 a7  75 31 14 a4 93 da e0 2d   .~Dmg.%. u1.....-
+Data: 0190  27 b0 ee 57                                        '..W
+„Data:  ******* Raw Hex Output - length=159 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 91 00 00 40 00 38 11  60 87 ac d9 10 2e c0 a8   ....@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 7d  c8 22 00 28 ca 93 c4 a0   d%.....} .".(....
+Data: 0030  7b 55 a6 cf 7b 3b 9d bd  e1 83 b1 bc 34 09 6b 51   {U..{;.. ....4.kQ
+Data: 0040  9f 64 66 31 a6 43 cb ed  b2 7e 9e 8b a3 8a b2 cc   .df1.C.. .~......
+Data: 0050  58 a2 84 9a 21 b1 0c 29  12 c2 2f 43 59 bc 6d 34   X...!..) ../CY.m4
+Data: 0060  c3 28 80 9e c7 6e da ed  88 3d 07 d5 67 40 36 30   .(...n.. .=..g@60
+Data: 0070  aa f9 b6 03 09 9c 6b d2  57 6a a8 79 c8 e1 d7 94   ......k. Wj.y....
+Data: 0080  33 e8 78 70 9b 73 e2 45  30 a7 0b a6 82 6d db 95   3.xp.s.E 0....m..
+Data: 0090  92 4d 22 67 ca a6 ed fe  6a 23 fe da 5e fb a7      .M"g.... j#..^..
+±Data:  ******* Raw Hex Output - length=86 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 48 7e 44 40 00 80 11  9a 8b c0 a8 64 25 ac d9   .H~D@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 00 34  e7 25 0c a5 e9 6f 36 5d   .......4 .%...o6]
+Data: 0030  8b 4d 89 28 8d 7f a7 39  33 e3 d5 fd 7b ba ee 4f   .M.(...9 3...{..O
+Data: 0040  bc 39 8d 46 db 23 88 b6  43 7e 0b 49 e3 7b 0c 2d   .9.F.#.. C~.I.{.-
+Data: 0050  ff 11 a2 20 c6 75                                  .....u
+¾Data:  ******* Raw Hex Output - length=267 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 fd 00 00 40 00 38 11  60 1b ac d9 10 2e c0 a8   ....@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 e9  3f b1 00 29 00 e4 2d 8c   d%...... ?..)..-.
+Data: 0030  1d 3d a8 b1 ea c7 81 8f  7a 59 d4 e2 7c 5d 67 88   .=...... zY..|]g.
+Data: 0040  90 64 53 ea 86 92 0a 3a  bf 5a 80 3d ae 55 2f 9c   .dS....: .Z.=.U/.
+Data: 0050  2a be 47 9a 1f 5b d2 eb  ba 7e 4c b6 29 68 ad c7   *.G..[.. .~L.)h..
+Data: 0060  eb 46 de ee 4e af b3 d8  6a 21 e0 d7 e8 dc ee 9c   .F..N... j!......
+Data: 0070  54 2a 84 0b ba d2 4f 63  47 a4 8d ee 90 06 c5 2d   T*....Oc G......-
+Data: 0080  d6 48 6e 08 d4 d0 82 d5  83 35 18 ed 59 19 31 31   .Hn..... .5..Y.11
+Data: 0090  4c 9e 12 8e 0e 4c a3 d1  ca e2 ea f3 28 62 e7 6b   L....L.. ....(b.k
+Data: 0100  4b 41 49 fe 83 e4 30 9a  66 c6 df e7 9c 94 24 63   KAI...0. f.....$c
+Data: 0110  8d 7d bd a3 11 7d ec 9d  9c cf 69 53 8d 73 c5 6e   .}...}.. ..iS.s.n
+Data: 0120  1d ad 13 c0 a4 9d 4b fd  8f 20 72 56 97 04 2d 9a   ......K. ..rV..-.
+Data: 0130  32 5b 66 d8 b2 14 27 ab  89 c8 10 66 3b e7 aa 7e   2[f...'. ...f;..~
+Data: 0140  bf 88 43 27 57 5d 90 6c  0b 1b 37 9e 0a 18 2c 09   ..C'W].l ..7...,.
+Data: 0150  1e c2 2b 5a 2a e9 4b c3  56 7d 8e 8c 64 d0 16 13   ..+Z*.K. V}..d...
+Data: 0160  61 93 cd 30 e1 aa 29 a3  6c 3e ea                  a..0..). l>.
+¿
+Data:  ******* Raw Hex Output - length=211 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 c5 00 00 40 00 38 11  60 53 ac d9 10 2e c0 a8   ....@.8. `S......
+Data: 0020  64 25 01 bb f7 cf 00 b1  70 1e 00 2a aa 58 5f 37   d%...... p..*.X_7
+Data: 0030  7a df 09 95 58 81 29 9a  c6 33 1d 73 ce cc 73 2b   z...X.). .3.s..s+
+Data: 0040  4a 71 f4 7e a8 0d 9f 03  f5 ab 1a 94 ad 68 13 6d   Jq.~.... .....h.m
+Data: 0050  4c 6f dd 37 16 34 0e fe  b5 bd 18 eb 61 c2 0f bf   Lo.7.4.. ....a...
+Data: 0060  35 0c b8 82 cb 63 22 88  a3 e2 20 ca 1e b6 40 4a   5....c". ......@J
+Data: 0070  35 75 55 04 c0 e6 ee 5a  85 0e ab 2f 1a c0 05 ea   5uU....Z .../....
+Data: 0080  2b 9e 85 f4 b9 37 31 74  70 d6 0b 2c 86 64 85 44   +....71t p..,.d.D
+Data: 0090  73 13 12 12 64 cd 2e 09  60 4a b4 af 27 ff 22 f7   s...d... `J..'.".
+Data: 0100  32 50 e6 e2 14 43 18 e5  36 2d fb d7 f7 cd 76 45   2P...C.. 6-....vE
+Data: 0110  ec 9f 24 9d e1 e5 1f f9  cc 95 2c ff dc d5 5d d4   ..$..... ..,...].
+Data: 0120  01 51 cc e1 59 de fb c9  60 f7 35 dd c2 86 d1 c7   .Q..Y... `.5.....
+Data: 0130  3a 99 ba                                           :..
+êData:  ******* Raw Hex Output - length=80 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 42 7e 45 40 00 80 11  9a 90 c0 a8 64 25 ac d9   .B~E@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 00 2e  b3 f6 0c a5 e9 6f 36 5d   ........ .....o6]
+Data: 0030  8b 4d 89 29 70 09 11 36  c8 3c 16 68 20 c7 41 f8   .M.)p..6 .<.h..A.
+Data: 0040  cb 9b 9f a2 dd 70 5b 95  5d 98 a9 10 a0 97 21 29   .....p[. ].....!)
+ŠData:  ******* Raw Hex Output - length=335 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  01 41 7e 46 40 00 80 11  6f f1 c0 a8 64 25 40 e9   .A~F@... o...d%@.
+Data: 0020  a5 bd c0 59 01 bb 01 2d  49 4c 0c 3d f4 dc 82 d3   ...Y...- IL.=....
+Data: 0030  37 5c 69 00 75 a7 44 6b  21 dd e1 cc 8f e2 9c e8   7\i.u.Dk !.......
+Data: 0040  73 e5 fa c7 5d bf 3b 3b  74 be 69 19 52 55 7e b0   s...].;; t.i.RU~.
+Data: 0050  92 7e 5c 22 d6 6b e6 a5  ea ae 39 56 92 c0 e6 c9   .~\".k.. ..9V....
+Data: 0060  a2 e6 03 5c 80 c2 8f 44  a1 bf ad 85 7b 42 c8 a7   ...\...D ....{B..
+Data: 0070  7a 0e 10 1f dc d5 b6 29  4b b4 de d7 91 b6 da d3   z......) K.......
+Data: 0080  62 1c 65 64 6e b6 1a 85  c7 95 8b f3 41 c3 36 1e   b.edn... ....A.6.
+Data: 0090  0f ff 84 8c ce bf eb 19  b3 6f 83 11 85 b7 88 b6   ........ .o......
+Data: 0100  55 5b d5 a2 99 9a b6 76  60 66 95 e2 ff 1b e5 34   U[.....v `f.....4
+Data: 0110  2f b1 4f 85 86 a5 b2 cd  49 f2 37 04 2f f8 9e 07   /.O..... I.7./...
+Data: 0120  c6 b4 9d ff 65 db 4a 53  fc 27 b9 c2 f2 b9 23 15   ....e.JS .'....#.
+Data: 0130  07 a1 17 31 40 46 d8 d4  0f 8a e6 3b ed 12 ec c0   ...1@F.. ...;....
+Data: 0140  53 ab 23 00 fd 55 52 28  b3 85 9a 9c 0b 51 7f c8   S.#..UR( .....Q..
+Data: 0150  93 3f ee 46 86 4b 2b 35  e0 37 d7 09 6a df 70 48   .?.F.K+5 .7..j.pH
+Data: 0160  d1 e3 8d 33 1c 77 97 2b  d4 cb d4 10 49 0c 4c 7f   ...3.w.+ ....I.L.
+Data: 0170  80 d4 c8 45 b0 08 c0 fd  08 84 8a fa 04 1d 0d 76   ...E.... .......v
+Data: 0180  14 99 29 41 b4 ab 24 a1  e0 d2 56 71 81 b3 9d df   ..)A..$. ..Vq....
+Data: 0190  08 f5 47 e2 15 c9 89 28  4d e3 3d 90 68 3a d6 4a   ..G....( M.=.h:.J
+Data: 0200  98 6b 81 82 c7 12 eb 70  0f 28 cc fe 1c fa e3      .k.....p .(.....
+°9Data:  ******* Raw Hex Output - length=1392 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  05 62 7e 47 40 00 80 11  6b cf c0 a8 64 25 40 e9   .b~G@... k...d%@.
+Data: 0020  a5 bd c0 59 01 bb 05 4e  5d 6b 0c 3d f4 dc 82 d3   ...Y...N ]k.=....
+Data: 0030  37 5c 69 01 8c 08 c1 ab  ba 65 11 f5 8e ff 5a f5   7\i..... .e....Z.
+Data: 0040  99 f7 16 2a 71 95 ba f6  52 fe 95 45 69 dd 20 1d   ...*q... R..Ei...
+Data: 0050  b5 f7 68 57 c2 6c 89 72  13 58 e0 50 18 0a ee e0   ..hW.l.r .X.P....
+Data: 0060  88 fe 2e 37 1f 64 42 84  40 a5 f2 ea 23 43 2f ac   ...7.dB. @...#C/.
+Data: 0070  a4 25 eb af 12 ef 86 f2  53 79 a5 01 52 d4 fb bf   .%...... Sy..R...
+Data: 0080  58 14 e7 de 87 8c 6b 8d  1e a2 a6 d1 01 6c b7 2c   X.....k. .....l.,
+Data: 0090  43 56 e8 0e 16 24 fb 31  e1 c5 66 d3 ff 3b ae f8   CV...$.1 ..f..;..
+Data: 0100  97 4c 48 f2 95 5b 84 a2  2a 0c 83 ab 05 b7 d8 51   .LH..[.. *......Q
+Data: 0110  2b bd 11 5c a4 72 8d f8  6a ea 29 fc ff 6a fe 21   +..\.r.. j.)..j.!
+Data: 0120  c3 ed a6 08 73 04 95 c8  ca ac 4e 7a 5d 80 67 c2   ....s... ..Nz].g.
+Data: 0130  ce c4 f3 e0 0c 0f 32 b4  a9 5f d6 b8 c7 90 55 e8   ......2. ._....U.
+Data: 0140  36 20 e2 11 c4 28 c3 24  dd d9 08 57 f6 b4 75 97   6....(.$ ...W..u.
+Data: 0150  16 8e ac 1b b7 5f 7b 31  71 70 e6 f9 87 c9 ce bd   ....._{1 qp......
+Data: 0160  95 df d5 82 89 1e 9e 68  d1 20 19 45 f0 a0 d4 22   .......h ...E..."
+Data: 0170  8c 5f 09 ae 44 e2 25 8e  c6 38 3a 29 68 e6 e2 09   ._..D.%. .8:)h...
+Data: 0180  30 ae ab 4a 9b ae 99 ce  47 9c b9 2e 4c 72 8d 0d   0..J.... G...Lr..
+Data: 0190  fb 02 b2 d3 9b ce e3 39  26 6b 1c 7d fe 6d ef 36   .......9 &k.}.m.6
+Data: 0200  0b c7 9a 08 64 9a 3f ce  28 fb a8 e0 ab 32 d5 0a   ....d.?. (....2..
+Data: 0210  fa 67 81 09 d4 02 5b e4  88 3f 1d 04 9f 60 6e 8b   .g....[. .?...`n.
+Data: 0220  4c 4c 32 98 82 95 0f 01  8a 6f f2 0c 8b b4 db 9b   LL2..... .o......
+Data: 0230  40 b9 5e 96 a9 2b 6b 25  f3 ae 6d f2 f5 82 40 e5   @.^..+k% ..m...@.
+Data: 0240  f0 45 12 d4 28 5e 6f 1b  aa 47 28 6b cf 0e 49 a9   .E..(^o. .G(k..I.
+Data: 0250  15 7a 24 ef cb 1b 12 de  c3 8a c3 2b e1 2f 4d d7   .z$..... ...+./M.
+Data: 0260  c8 b8 d2 0c 58 82 8f 31  e3 fb 5c 1d 7d cc 9a 64   ....X..1 ..\.}..d
+Data: 0270  73 0f 38 b5 9a 86 ba 78  fa 3d e2 80 8e 4b a5 00   s.8....x .=...K..
+Data: 0280  8a f5 aa e0 8f aa e2 86  64 b4 a6 04 7c ec 9e 0c   ........ d...|...
+Data: 0290  a7 4b 53 7d a0 66 c9 4b  7d 37 20 dc 53 f7 46 19   .KS}.f.K }7..S.F.
+Data: 0300  34 25 4f df 86 f0 6f 7b  95 23 7b 25 4a 54 26 2d   4%O...o{ .#{%JT&-
+Data: 0310  85 38 a1 ce bc 26 bf 4c  3e 74 c7 4d 9a fc 73 a8   .8...&.L >t.M..s.
+Data: 0320  14 69 9f fc 44 e5 fc d6  8d 4f ae fb e0 f1 8a a0   .i..D... .O......
+Data: 0330  8d b1 5e 2a dc 9c 0f ab  51 0f a3 ee 6d 88 bb ef   ..^*.... Q...m...
+Data: 0340  19 53 23 30 38 55 60 d1  9b 53 b3 6c a7 2c bd 75   .S#08U`. .S.l.,.u
+Data: 0350  38 7b 0b 1a e3 e2 a1 d9  a7 3d a7 cb 6c fd 8a c4   8{...... .=..l...
+Data: 0360  35 ea 87 cd b8 54 58 6b  fa b5 7f c0 9f 50 02 bd   5....TXk .....P..
+Data: 0370  54 40 9d 46 90 5d f4 1d  2b ec f6 40 92 b8 a5 38   T@.F.].. +..@...8
+Data: 0380  77 91 ae ed 7b 75 bf 4e  c4 4d a1 a7 8e 96 72 e9   w...{u.N .M....r.
+Data: 0390  ab 75 b6 91 6e 61 e1 33  94 c0 c7 eb f2 d3 58 27   .u..na.3 ......X'
+Data: 0400  43 1c 94 42 19 f7 25 0b  f4 e1 41 ce f3 d4 05 72   C..B..%. ..A....r
+Data: 0410  8d d6 9d a1 0e 3f 27 82  9f 60 5b 89 c5 06 2d 3f   .....?'. .`[...-?
+Data: 0420  b3 21 a1 66 68 f7 a1 34  51 67 8e 2a 46 da 83 b4   .!.fh..4 Qg.*F...
+Data: 0430  07 f2 a1 46 ea a5 14 54  a8 79 1e 67 ff 5c 67 44   ...F...T .y.g.\gD
+Data: 0440  34 47 26 45 2c 0f 68 c4  80 54 00 a2 43 36 c0 f4   4G&E,.h. .T..C6..
+Data: 0450  48 68 b2 33 b7 b2 ae 0c  8b 4e da cf 86 20 12 92   Hh.3.... .N......
+Data: 0460  65 14 7f 2a 1d 54 46 f2  3d 5c 66 af 36 8d 34 bb   e..*.TF. =\f.6.4.
+Data: 0470  54 cb 67 b6 89 73 7b ea  c5 ea 1c a8 d5 4c 18 e0   T.g..s{. .....L..
+Data: 0480  b6 87 6c c8 da 5a 09 18  f2 3c 94 07 32 91 04 dd   ..l..Z.. .<..2...
+Data: 0490  ff fb 61 3c 01 18 b3 00  e4 ec 98 2a 7a b9 a8 cc   ..a<.... ...*z...
+Data: 0500  5d 6f ae c9 64 e6 88 50  d9 01 db 9c 61 c9 f8 9d   ]o..d..P ....a...
+Data: 0510  fc 77 b5 66 c9 25 e7 35  59 21 dd 1f fe 8b d1 3b   .w.f.%.5 Y!.....;
+Data: 0520  06 bd 30 66 8a 1a 14 34  8f bd 9b 76 24 cb 4f 4e   ..0f...4 ...v$.ON
+Data: 0530  e7 fc 3e 9a f2 99 cb 19  05 7f 2d cf 10 0d b5 b6   ..>..... ..-.....
+Data: 0540  f2 4f 01 fa 65 42 01 82  6a c0 e5 a5 7a 0e a0 63   .O..eB.. j...z..c
+Data: 0550  fe 9c 59 26 48 5b a7 46  57 77 0f e1 dc 98 d4 b4   ..Y&H[.F Ww......
+Data: 0560  bd 8f f2 e8 b6 62 9b f2  e0 e8 48 dd b8 ce 82 7e   .....b.. ..H....~
+Data: 0570  e3 7d 52 e9 fe 37 07 9d  2a 50 23 81 55 eb e7 27   .}R..7.. *P#.U..'
+Data: 0580  72 93 02 d0 89 4e d2 71  fc 0a 95 d2 b3 69 b7 c2   r....N.q .....i..
+Data: 0590  25 d4 40 af fd 4d d8 ef  3e 3b a6 05 2d 76 2e 9b   %.@..M.. >;..-v..
+Data: 0600  34 49 11 55 4b e9 e7 c7  21 8e 50 dd 3e 22 1e c2   4I.UK... !.P.>"..
+Data: 0610  72 ab c6 67 03 68 56 23  2f 39 f7 d3 02 85 50 eb   r..g.hV# /9....P.
+Data: 0620  b9 af 8d 5c b7 c2 29 ac  e0 5e f1 8b d5 03 de 07   ...\..). .^......
+Data: 0630  96 09 d5 00 09 6f 8e d0  4e 71 56 bc b3 0f fb 8a   .....o.. NqV.....
+Data: 0640  80 f2 8a b9 90 d0 b9 74  93 46 55 c3 4f 4d 92 31   .......t .FU.OM.1
+Data: 0650  5b 28 ca f9 42 ce e7 ff  0f 91 b2 a1 0d 87 c9 cb   [(..B... ........
+Data: 0660  74 01 67 93 d5 42 c1 2b  f6 65 8b 4c cb 0b 57 59   t.g..B.+ .e.L..WY
+Data: 0670  6c b1 d7 62 12 86 50 ba  79 61 1d a7 4e e6 6c 99   l..b..P. ya..N.l.
+Data: 0680  dc 67 72 68 6d 23 f2 51  e7 c2 4e 3e 16 ab 60 3c   .grhm#.Q ..N>..`<
+Data: 0690  02 6b 05 c6 52 28 11 ce  40 16 1e 87 a9 09 59 bb   .k..R(.. @.....Y.
+Data: 0700  c9 0d 7a a9 6a 31 f5 d8  4c 32 cd 3e fc e5 b2 a1   ..z.j1.. L2.>....
+Data: 0710  3e 6b a3 27 15 dc af 9b  67 58 b2 e4 25 fd a2 1e   >k.'.... gX..%...
+Data: 0720  32 de de cf 02 b9 2a a4  c8 77 f1 89 a7 17 6c 33   2.....*. .w....l3
+Data: 0730  4e 9e ee 96 24 aa 98 83  b9 41 be 44 b0 ec 1c 4f   N...$... .A.D...O
+Data: 0740  e3 17 fa 98 74 73 d5 fe  b2 61 d2 d5 f7 79 f4 3a   ....ts.. .a...y.:
+Data: 0750  d6 a9 c2 72 1c cb 83 7c  1b cb f8 2b 5a 53 b6 9f   ...r...| ...+ZS..
+Data: 0760  5a b9 bf a4 89 f8 95 56  0f fd bd 7c 01 ec 16 11   Z......V ...|....
+Data: 0770  fd f2 f5 92 f6 26 61 c3  ac 57 cc b5 4c c9 15 18   .....&a. .W..L...
+Data: 0780  a3 85 c3 97 9d c3 56 2c  e2 ce 5f e2 25 0a 86 a9   ......V, .._.%...
+Data: 0790  62 24 f8 9a 34 56 d5 85  5d 54 53 ca 63 2c 8d 9a   b$..4V.. ]TS.c,..
+Data: 0800  94 4e 2c f2 f6 f8 1e 92  7d af 35 3c d1 31 54 6e   .N,..... }.5<.1Tn
+Data: 0810  9f 5c 54 19 27 04 b6 10  00 9a a1 6f 8d 0c 87 72   .\T.'... ...o...r
+Data: 0820  f5 cc 0c 74 76 fb 68 d0  8a b3 42 f0 01 db 62 9e   ...tv.h. ..B...b.
+Data: 0830  97 88 6b 4c c6 00 0a f3  26 71 71 b9 90 9b 36 9c   ..kL.... &qq...6.
+Data: 0840  e9 68 d4 e4 b7 0b 64 d6  17 5e fa c5 4b c2 ca 7c   .h....d. .^..K..|
+Data: 0850  23 e2 e6 6e 4f 48 92 54  c1 4c cc b1 e2 fc c0 cb   #..nOH.T .L......
+Data: 0860  4f 8e 8a 1c 08 b0 fd 69  87 8e 04 f2 c9 4f 23 60   O......i .....O#`
+áData:  ******* Raw Hex Output - length=526 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  02 00 7e 48 40 00 80 11  6f 30 c0 a8 64 25 40 e9   ..~H@... o0..d%@.
+Data: 0020  a5 bd c0 59 01 bb 01 ec  87 a8 0c 3d f4 dc 82 d3   ...Y.... ...=....
+Data: 0030  37 5c 69 02 96 89 10 b1  06 aa 72 f6 52 db ed 89   7\i..... ..r.R...
+Data: 0040  5d 9a 45 e6 41 e2 ea 7d  c0 78 fc 15 22 09 c2 53   ].E.A..} .x.."..S
+Data: 0050  db 62 4b f8 e7 3f fa 23  c1 b4 d1 c1 a4 58 82 48   .bK..?.# .....X.H
+Data: 0060  d4 55 98 d5 48 9b 61 3e  28 18 70 eb 5f 40 d8 cb   .U..H.a> (.p._@..
+Data: 0070  6b ce 33 c5 2d 44 52 33  d7 a8 2f 60 30 b7 f9 37   k.3.-DR3 ../`0..7
+Data: 0080  fe a6 81 80 7b ac aa ec  92 b8 ed ea c1 8f 7a 8a   ....{... ......z.
+Data: 0090  9f 13 73 72 5c 55 84 d2  c1 84 4a 09 51 34 7a c4   ..sr\U.. ..J.Q4z.
+Data: 0100  ea 03 69 07 9a 57 b6 c4  89 8c f4 2f 98 8c 8a 9b   ..i..W.. .../....
+Data: 0110  3d 3b 7e 4c c3 06 99 6f  72 b3 fa 73 70 99 95 f0   =;~L...o r..sp...
+Data: 0120  c1 c9 63 f8 da 91 1c f7  c5 7c 09 9a 4a 95 81 0a   ..c..... .|..J...
+Data: 0130  18 f9 60 eb 67 90 c4 fb  ce b5 77 2f 80 00 de 85   ..`.g... ..w/....
+Data: 0140  d2 5c eb 67 9b 6b 71 89  e1 7a c0 54 5a 43 58 3d   .\.g.kq. .z.TZCX=
+Data: 0150  fa 72 64 25 ec aa e6 75  f9 d0 64 e2 72 e1 22 58   .rd%...u ..d.r."X
+Data: 0160  6b d3 62 a0 d0 15 71 50  26 8b 3b 15 31 ff 1d ba   k.b...qP &.;.1...
+Data: 0170  45 f9 fb a9 b7 5b 07 23  a1 97 2a f9 29 72 b4 74   E....[.# ..*.)r.t
+Data: 0180  3f a4 d8 ab 40 f8 e3 2a  82 87 56 24 47 e1 c2 20   ?...@..* ..V$G...
+Data: 0190  38 d5 51 bd fa a1 09 90  91 11 a8 ed 0e 72 63 e3   8.Q..... .....rc.
+Data: 0200  76 8e dc 05 79 53 4c 09  70 47 0b b4 45 34 fc 1f   v...ySL. pG..E4..
+Data: 0210  68 f3 ab 31 5c cf 16 40  b5 db ad a6 ff d1 00 62   h..1\..@ .......b
+Data: 0220  38 e7 eb c4 8d 89 b5 33  c5 70 2d 25 d9 34 8d 93   8......3 .p-%.4..
+Data: 0230  03 01 55 fc 69 d4 8a eb  83 9b ae 3b df 8f 2f 11   ..U.i... ...;../.
+Data: 0240  f9 f9 a3 37 14 40 ad ff  89 41 f7 64 2f 8e 49 53   ...7.@.. .A.d/.IS
+Data: 0250  39 78 a8 02 6a cb 49 49  53 d3 41 7b 11 b9 4e 61   9x..j.II S.A{..Na
+Data: 0260  67 31 a1 f6 86 d4 06 da  5a dd 87 5c 6d 93 1b a3   g1...... Z..\m...
+Data: 0270  26 75 ea f4 cb 12 87 37  97 ec 8e d2 73 38 53 88   &u.....7 ....s8S.
+Data: 0280  e5 8a c3 e1 77 5c 95 4c  a1 c5 f0 cf 4f 71 7f 70   ....w\.L ....Oq.p
+Data: 0290  36 85 da bc 89 c2 0e c6  5a e8 57 0c f3 c8 19 f2   6....... Z.W.....
+Data: 0300  00 a2 a2 27 54 c8 d9 ae  02 d2 8b c0 e0 8b e0 69   ...'T... .......i
+Data: 0310  62 3b ca 5b 75 9f e8 4f  8c 10 1c 7b b5 3b fe f9   b;.[u..O ...{.;..
+Data: 0320  02 d3 97 4f 81 28 d5 7c  2c b2 fc 23 bf 4a         ...O.(.| ,..#.J
+âData:  ******* Raw Hex Output - length=299 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  01 1d 7e 49 40 00 80 11  99 b1 c0 a8 64 25 ac d9   ..~I@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 01 09  f9 38 0c a5 e9 6f 36 5d   ........ .8...o6]
+Data: 0030  8b 4d 89 2a d9 28 32 10  03 c2 98 7a 5d fe dc 87   .M.*.(2. ...z]...
+Data: 0040  98 28 1b 8c e1 3f 9c 30  3c 38 48 79 16 68 ec 40   .(...?.0 <8Hy.h.@
+Data: 0050  49 5d fd bb 61 60 7d 05  96 1b 2e 8b 9f 09 5a fe   I]..a`}. ......Z.
+Data: 0060  8d 15 3d b5 33 52 e3 65  a3 fd 1a ce 42 b6 df d3   ..=.3R.e ....B...
+Data: 0070  be fe 60 97 d0 74 fe 77  a1 f6 ad 36 20 2c 34 4d   ..`..t.w ...6.,4M
+Data: 0080  50 83 56 f7 13 ab 0a e7  9c 9f bb ff 94 0c 2b 43   P.V..... ......+C
+Data: 0090  46 ee 6f d8 80 d1 1f cf  e1 e2 d3 4e 45 c3 6b 0b   F.o..... ...NE.k.
+Data: 0100  9d c5 4e bf 72 16 b3 18  3f 5a eb b7 a9 d8 a9 66   ..N.r... ?Z.....f
+Data: 0110  e3 49 c5 2f bb 94 6a 2d  9c e9 c0 f1 8f 4f 33 f7   .I./..j- .....O3.
+Data: 0120  d6 26 28 05 ba 32 0a 41  a7 9c 35 31 91 43 50 a1   .&(..2.A ..51.CP.
+Data: 0130  74 0d d2 4a f9 a5 87 45  87 9c 90 31 66 0f 9d f2   t..J...E ...1f...
+Data: 0140  b4 f7 9b 71 19 3c d7 6f  d5 dc c8 96 35 ff 8f 00   ...q.<.o ....5...
+Data: 0150  ec c8 6b 8f fb b3 1b a4  e6 f8 54 c9 42 b2 4c 7f   ..k..... ..T.B.L.
+Data: 0160  7b ea 65 8d 10 2b 76 1e  2f 10 31 d7 58 23 12 fa   {.e..+v. /.1.X#..
+Data: 0170  8d 25 30 d0 4e dc ea 77  4b f1 78 49 b9 69 8c 6a   .%0.N..w K.xI.i.j
+Data: 0180  b2 70 8e c5 01 29 48 c9  b1 0a 45                  .p...)H. ..E
+¾
+Data:  ******* Raw Hex Output - length=210 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 c4 7e 4a 40 00 80 11  9a 09 c0 a8 64 25 ac d9   ..~J@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 00 b0  45 c7 0c a5 e9 6f 36 5d   ........ E....o6]
+Data: 0030  8b 4d 89 2b a4 55 89 bc  0d ca 15 cd 73 6a cd d1   .M.+.U.. ....sj..
+Data: 0040  e7 c0 39 66 b4 9b 35 06  6d d6 69 d7 ac 1a c8 fd   ..9f..5. m.i.....
+Data: 0050  83 53 43 5e 76 fd 22 25  9c 1e 9a 39 32 ca ad ed   .SC^v."% ...92...
+Data: 0060  16 b2 06 78 a8 7b 65 92  d0 56 e3 29 28 5e c8 44   ...x.{e. .V.)(^.D
+Data: 0070  f9 d6 f4 d0 9e 5e 4e 93  34 db db 2e c6 d0 8d 2b   .....^N. 4......+
+Data: 0080  97 72 26 44 64 ab be d2  e7 79 99 a0 2f 9d 24 2e   .r&Dd... .y../.$.
+Data: 0090  dd 2d b2 59 9e f4 ac c1  31 5a 3e 32 55 30 d7 d6   .-.Y.... 1Z>2U0..
+Data: 0100  92 ef a7 61 be fa ab f9  e7 df 0f 17 a8 84 c8 af   ...a.... ........
+Data: 0110  d0 06 6f 25 44 24 8b 36  87 6c d5 2d 01 d1 92 71   ..o%D$.6 .l.-...q
+Data: 0120  25 5d 97 45 29 75 37 6d  a8 4d cd 34 84 0a fd e6   %].E)u7m .M.4....
+Data: 0130  dc 6b                                              .k
+èData:  ******* Raw Hex Output - length=78 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 40 00 00 40 00 38 11  60 d8 ac d9 10 2e c0 a8   .@..@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 2c  95 b4 00 2b 96 e0 f9 d6   d%....., ...+....
+Data: 0030  61 5a 70 95 4c 47 aa 29  e9 82 4f f7 50 6e b9 94   aZp.LG.) ..O.Pn..
+Data: 0040  2f ac bc 73 d2 ba 7f 4b  60 2b a7 e3 ab 8b         /..s...K `+....
+¬Data:  ******* Raw Hex Output - length=365 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  01 5f 00 00 40 00 38 11  36 1a 40 e9 a5 bd c0 a8   ._..@.8. 6.@.....
+Data: 0020  64 25 01 bb c0 59 01 4b  02 95 00 46 e4 71 6a c9   d%...Y.K ...F.qj.
+Data: 0030  74 67 fc 4e 0a 3a b7 6a  d2 c9 ba b9 a9 ce 44 e7   tg.N.:.j ......D.
+Data: 0040  fb 07 ee 38 a7 56 f2 45  84 bb 3d 31 54 20 5f 30   ...8.V.E ..=1T._0
+Data: 0050  84 42 a2 68 e7 2a e0 28  26 53 f9 19 dd 99 0c 25   .B.h.*.( &S.....%
+Data: 0060  92 e7 f4 98 01 a9 ef 2a  4b fd b3 8a 42 8b 46 2b   .......* K...B.F+
+Data: 0070  18 60 77 0e 5e 78 52 09  fa 96 5b 3c bf 93 11 71   .`w.^xR. ..[<...q
+Data: 0080  c6 ee fc a0 ab 11 04 47  64 ce 92 f3 cf cd 2d 6e   .......G d.....-n
+Data: 0090  ee eb c0 be 14 70 fb 16  15 54 b9 8d f8 c5 8b 16   .....p.. .T......
+Data: 0100  8f 27 e5 e6 dc 4e 5e 9a  97 1e 3e f8 8b 40 ff 1b   .'...N^. ..>..@..
+Data: 0110  0b c5 5e f9 58 a9 43 f7  7f 35 36 11 b6 4e 88 c2   ..^.X.C. .56..N..
+Data: 0120  4d a8 57 20 c7 cd a4 1d  98 bf 36 71 52 f5 e0 a2   M.W..... ..6qR...
+Data: 0130  ec ee 5a 63 b8 d9 0d 71  8e d0 d7 85 6a 5c a2 1c   ..Zc...q ....j\..
+Data: 0140  87 5b cc 66 d0 9b 07 87  54 fa be e7 c3 68 e6 ff   .[.f.... T....h..
+Data: 0150  05 d8 2b 9f d4 d7 c5 a5  17 ca 18 c1 a9 55 72 5d   ..+..... .....Ur]
+Data: 0160  04 6e 45 15 ce f1 f7 b6  48 7c 68 42 46 ce 0f 16   .nE..... H|hBF...
+Data: 0170  ee 2a c8 d0 89 c4 37 6d  b1 fe 51 f8 88 6d 0f 5d   .*....7m ..Q..m.]
+Data: 0180  e8 53 84 1e 70 2f 08 e5  bc 29 49 74 59 aa 49 0e   .S..p/.. .)ItY.I.
+Data: 0190  0e 06 cd 30 f6 10 12 05  5b 42 02 3c 53 d9 12 53   ...0.... [B.<S..S
+Data: 0200  bc e7 e4 06 be 43 02 c4  75 a2 56 4d 71 11 49 2e   .....C.. u.VMq.I.
+Data: 0210  70 44 83 72 8a f0 ea a7  d0 cd 80 57 6c b4 2e fc   pD.r.... ...Wl...
+Data: 0220  e0 cd 1b a4 90 84 65 a4  c6 0c 9e b6 c7            ......e. .....
+¸Data:  ******* Raw Hex Output - length=319 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  01 31 00 00 40 00 38 11  36 48 40 e9 a5 bd c0 a8   .1..@.8. 6H@.....
+Data: 0020  64 25 01 bb c0 59 01 1d  29 e7 00 47 85 9e aa 40   d%...Y.. )..G...@
+Data: 0030  ff ab af 99 83 eb 8e 09  70 f5 ca 0f 94 59 34 14   ........ p....Y4.
+Data: 0040  a6 f0 53 92 c0 e1 9c a1  83 f0 f6 0a 05 7a 20 01   ..S..... .....z..
+Data: 0050  04 f3 56 57 d0 08 ed b3  b8 c1 ae d8 e9 a7 37 09   ..VW.... ......7.
+Data: 0060  af 4e 1c 80 a0 a4 5d 38  40 c5 b6 65 f3 aa fa 81   .N....]8 @..e....
+Data: 0070  15 5e 9e d7 15 2c 54 0c  b6 ae 3b b0 d8 3a 9d 5f   .^...,T. ..;..:._
+Data: 0080  91 81 52 75 74 84 00 e2  be 26 02 0a e1 dc 60 f7   ..Rut... .&....`.
+Data: 0090  9f 36 8a eb bc fe fd 46  82 62 69 eb 4d 6c a0 0f   .6.....F .bi.Ml..
+Data: 0100  38 a2 19 35 a9 ed 5c 27  bc 45 52 fe e5 7e 8f 21   8..5..\' .ER..~.!
+Data: 0110  a5 03 cd 1a 75 86 23 9f  83 f6 f7 54 c3 fa 6a 14   ....u.#. ...T..j.
+Data: 0120  34 35 88 0e 5c de f9 26  7c ae 0c ab 6f cf 32 0d   45..\..& |...o.2.
+Data: 0130  c7 26 80 bf 33 f2 06 50  f1 b9 44 e9 27 fb ad 47   .&..3..P ..D.'..G
+Data: 0140  60 03 7c 20 85 68 0e 4b  56 72 dc bf ef d3 54 fa   `.|..h.K Vr....T.
+Data: 0150  34 9d 57 96 c9 87 45 f1  64 78 88 57 fa 0c e3 e7   4.W...E. dx.W....
+Data: 0160  9d 73 be 66 e4 13 ab b8  53 ce c1 3e be 5b 22 c5   .s.f.... S..>.[".
+Data: 0170  71 12 95 0c 02 ed 2c a7  ae c1 7b fa b4 a0 1b 8b   q.....,. ..{.....
+Data: 0180  4e f5 36 61 70 86 cd 1f  7d cd 33 be 51 a3 3f 7b   N.6ap... }.3.Q.?{
+Data: 0190  91 0b 9c 95 1f 7c d7 26  17 70 fc 46 a6 47 89      .....|.& .p.F.G.
+™Data:  ******* Raw Hex Output - length=234 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 dc 00 00 40 00 38 11  36 9d 40 e9 a5 bd c0 a8   ....@.8. 6.@.....
+Data: 0020  64 25 01 bb c0 59 00 c8  2e 07 00 48 3e 16 aa 83   d%...Y.. ...H>...
+Data: 0030  29 51 8d 91 7a 14 3c e0  00 c8 77 e3 ba fe f3 e3   )Q..z.<. ..w.....
+Data: 0040  ad 17 42 5c 78 1b 38 92  1f 4d ee ef d3 3d 22 e5   ..B\x.8. .M...=".
+Data: 0050  d3 0c 4f 20 8f 7b 27 db  33 d8 bf 1f bc e5 a5 36   ..O..{'. 3......6
+Data: 0060  6a 5c 7c 15 d5 23 48 54  8f 05 3e 32 a5 55 e8 91   j\|..#HT ..>2.U..
+Data: 0070  27 be 72 e5 c9 99 d0 d7  9a 68 74 5e 3e 1e 49 a5   '.r..... .ht^>.I.
+Data: 0080  ae c8 e3 ce 4f ae 0d 5a  53 b9 9c be 42 98 3b 00   ....O..Z S...B.;.
+Data: 0090  37 29 8a 97 48 4e d2 cd  23 6c 47 95 d3 7e 42 ce   7)..HN.. #lG..~B.
+Data: 0100  19 d0 33 1d 2a 01 7c ee  f2 2d ea 0c 78 ae 40 32   ..3.*.|. .-..x.@2
+Data: 0110  9c f3 29 91 96 1b 39 05  25 b0 b6 80 2d 8d c1 77   ..)...9. %...-..w
+Data: 0120  f8 f3 4a 2d 8b 2f 1a ce  f8 d3 2c e3 8d 34 e7 c4   ..J-./.. ..,..4..
+Data: 0130  22 82 d3 df 81 5e 98 3b  ee cc df 48 d3 86 38 2d   "....^.; ...H..8-
+Data: 0140  f2 19 c9 8a 0c 9c 5c 5a  4e e3                     ......\Z N.
+´Data:  ******* Raw Hex Output - length=88 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 4a 00 00 40 00 38 11  37 2f 40 e9 a5 bd c0 a8   .J..@.8. 7/@.....
+Data: 0020  64 25 01 bb c0 59 00 36  c6 25 00 49 e6 c4 89 e5   d%...Y.6 .%.I....
+Data: 0030  c2 b9 90 02 20 70 18 37  d1 6a b4 fd 94 db 4e b2   .....p.7 .j....N.
+Data: 0040  27 23 25 eb e9 be ef 30  e8 b3 4b 02 df f8 f1 7b   '#%....0 ..K....{
+Data: 0050  02 fa af dc 8d c4 99 c1                            ........ 
+öData:  ******* Raw Hex Output - length=374 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  01 68 00 00 40 00 38 11  36 11 40 e9 a5 bd c0 a8   .h..@.8. 6.@.....
+Data: 0020  64 25 01 bb c0 59 01 54  49 3b 00 4a 25 55 8d 9a   d%...Y.T I;.J%U..
+Data: 0030  79 6b 37 39 8a c5 59 ef  6f d6 93 61 16 08 fe 37   yk79..Y. o..a...7
+Data: 0040  a6 bf 63 d6 79 16 ad 8f  29 50 ee e8 de 27 38 24   ..c.y... )P...'8$
+Data: 0050  3d a2 57 f0 f5 4c 2d 3a  07 a2 87 04 ab 2a 81 4a   =.W..L-: .....*.J
+Data: 0060  0e 5e f1 1b 61 6b 64 a1  69 ac c7 09 7c 31 dd b5   .^..akd. i...|1..
+Data: 0070  3e 3a 24 1b 2a d3 5c 63  67 be 8d ac b1 9b f1 38   >:$.*.\c g......8
+Data: 0080  95 d8 2c f1 b4 73 5d 61  53 65 e8 7c 35 aa 65 5a   ..,..s]a Se.|5.eZ
+Data: 0090  56 c7 b1 ae 60 b1 36 ac  6e 86 d6 3a 49 60 e7 af   V...`.6. n..:I`..
+Data: 0100  d5 ad 1b 12 9c 5c 2c 06  75 f1 4f 3c c0 60 dd 9d   .....\,. u.O<.`..
+Data: 0110  2b 41 10 97 94 33 40 7b  98 08 32 66 7d 51 1a b4   +A...3@{ ..2f}Q..
+Data: 0120  d2 dc 0e 7c 3a 35 85 00  aa 4e a7 fc 1b e2 12 79   ...|:5.. .N.....y
+Data: 0130  fc a2 d8 c0 95 cc 1c e5  d1 21 b9 c1 31 5d e1 56   ........ .!..1].V
+Data: 0140  f0 6c 47 83 4e 72 b0 7f  41 46 ec 4d c0 94 b9 3e   .lG.Nr.. AF.M...>
+Data: 0150  65 a2 eb 4f 9e 0b d7 c2  b5 6e 80 21 f1 95 2f dc   e..O.... .n.!../.
+Data: 0160  5e ba 06 b3 16 27 10 86  87 47 43 d0 ee 0f 48 0b   ^....'.. .GC...H.
+Data: 0170  17 b0 67 ec 6b 8b b3 36  be a2 b3 a9 6f 62 27 72   ..g.k..6 ....ob'r
+Data: 0180  6f ce 31 b9 b3 27 b5 c1  e0 d2 b9 1c de 72 a9 47   o.1..'.. .....r.G
+Data: 0190  09 ea 06 d2 6b 8a 8d 69  c1 02 4b 3c 95 db 6f d9   ....k..i ..K<..o.
+Data: 0200  61 d4 4a 98 f4 34 79 53  b9 0e a0 bb 5a 4a 77 66   a.J..4yS ....ZJwf
+Data: 0210  f2 e2 b2 a1 f0 d9 e9 fb  a2 63 6e f7 10 68 d2 66   ........ .cn..h.f
+Data: 0220  c1 54 c2 13 39 ec cc 3b  d6 24 7b f6 72 eb 31 c7   .T..9..; .${.r.1.
+Data: 0230  94 c5 8c 48 76 3d                                  ...Hv=
+¨	Data:  ******* Raw Hex Output - length=191 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 b1 00 00 40 00 38 11  36 c8 40 e9 a5 bd c0 a8   ....@.8. 6.@.....
+Data: 0020  64 25 01 bb c0 59 00 9d  81 5f 00 4b cc 57 96 90   d%...Y.. ._.K.W..
+Data: 0030  0b e7 47 6a 7d 91 bb 03  35 e6 8d f0 b1 1e 79 17   ..Gj}... 5.....y.
+Data: 0040  e1 13 95 24 d9 de bc 65  a5 d2 b3 95 16 13 be 68   ...$...e .......h
+Data: 0050  79 87 8a a5 ba 1d 5e a9  c7 c1 27 09 b7 45 cd fe   y.....^. ..'..E..
+Data: 0060  99 8e ff 75 c6 5a ad 9b  1f 91 ef d3 09 5c f7 c7   ...u.Z.. .....\..
+Data: 0070  b5 c7 cb 5c 7c a0 bb cc  44 b0 93 ae 9c 8d e1 9f   ...\|... D.......
+Data: 0080  58 9b 30 03 43 1d 71 ee  e0 b4 14 e0 dd 42 49 9d   X.0.C.q. .....BI.
+Data: 0090  9b c8 44 ea 98 a8 54 cf  f7 6b 0e 79 3e 91 a3 e0   ..D...T. .k.y>...
+Data: 0100  24 a4 e7 7c 6f 5a 60 cd  01 59 e3 c7 2e 2e 66 7a   $..|oZ`. .Y....fz
+Data: 0110  a8 80 1b 7c 0a da b0 a1  2a 5f f2 e8 c8 29 0e      ...|.... *_...).
+ÏData:  ******* Raw Hex Output - length=396 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  01 7e 00 00 40 00 38 11  35 fb 40 e9 a5 bd c0 a8   .~..@.8. 5.@.....
+Data: 0020  64 25 01 bb c0 59 01 6a  32 ce 00 4c 86 3a 94 ff   d%...Y.j 2..L.:..
+Data: 0030  85 f1 da e0 dc 3b d5 39  f9 84 9d 6f 01 e5 9c d9   .....;.9 ...o....
+Data: 0040  c2 95 cc 33 e7 c3 e6 88  d5 3a d0 8b f8 c8 3b 5c   ...3.... .:....;\
+Data: 0050  e9 f0 cc f7 dd 99 ef 46  4b 9d 1e 4d ce 78 57 7e   .......F K..M.xW~
+Data: 0060  4c 6e df 83 4b 08 c1 89  85 af 16 85 a9 13 5b 05   Ln..K... ......[.
+Data: 0070  1c 79 62 55 ed b6 e2 89  e0 ad e7 c4 70 a9 f7 a8   .ybU.... ....p...
+Data: 0080  63 09 01 93 bd b9 95 32  44 02 db e0 d4 1a 5c 58   c......2 D.....\X
+Data: 0090  2e 7b 87 a6 d9 b1 86 d7  c6 4f 27 b3 c4 7b 52 8d   .{...... .O'..{R.
+Data: 0100  22 52 91 6e fc 69 07 0d  04 21 f0 65 1b f3 80 34   "R.n.i.. .!.e...4
+Data: 0110  21 00 20 08 e3 8b 35 5a  20 44 d9 44 a1 36 d1 77   !.....5Z .D.D.6.w
+Data: 0120  93 44 af 45 92 10 30 e1  f5 bf fc 24 b9 04 e3 f5   .D.E..0. ...$....
+Data: 0130  59 f5 8a d1 89 cc 16 f9  f6 95 4f 57 d9 1f 06 cf   Y....... ..OW....
+Data: 0140  80 24 2f 22 c8 7e c7 ca  62 50 6b fb b8 fb 06 8f   .$/".~.. bPk.....
+Data: 0150  bf 50 d9 dd 39 92 63 3b  22 75 1d 4c 9a fd 5c 55   .P..9.c; "u.L..\U
+Data: 0160  fa 30 74 a2 88 bf e6 aa  ba ed b8 89 a6 c9 e3 74   .0t..... .......t
+Data: 0170  c0 0d 25 76 29 d3 a0 68  89 5f ea af 5b 85 c1 00   ..%v)..h ._..[...
+Data: 0180  7d cb d8 f5 d3 19 c9 e0  58 dc 70 fc 87 f9 86 30   }....... X.p....0
+Data: 0190  60 3d b6 47 2b 2a 2d ba  ac 08 9c 5a e8 6a ac 3e   `=.G+*-. ...Z.j.>
+Data: 0200  ba 76 0f 1c c4 0c 63 38  3b 70 1f f6 63 4f 06 58   .v....c8 ;p..cO.X
+Data: 0210  ef 99 f6 86 10 de 6b 4c  8c d4 e9 f7 ef 9e 87 30   ......kL .......0
+Data: 0220  04 31 ae 69 b6 39 af 84  02 23 b6 db 97 c6 e1 0e   .1.i.9.. .#......
+Data: 0230  dc 83 7d ae bd fd 3d 74  68 40 2b e1 de 64 d0 03   ..}...=t h@+..d..
+Data: 0240  d6 d8 83 6b 04 03 2a fa  5e ef 45 38               ...k..*. ^.E8
+ÖData:  ******* Raw Hex Output - length=345 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  01 4b 00 00 40 00 38 11  36 2e 40 e9 a5 bd c0 a8   .K..@.8. 6.@.....
+Data: 0020  64 25 01 bb c0 59 01 37  ba 93 00 4d 05 98 5f 32   d%...Y.7 ...M.._2
+Data: 0030  27 e5 53 ed 1d 16 31 17  c5 fe ed ae d2 82 da 24   '.S...1. .......$
+Data: 0040  cd 03 a2 67 98 b7 64 21  2d 2a 87 ef 0c 57 9b 7d   ...g..d! -*...W.}
+Data: 0050  1e af 56 39 81 db 1b 98  e5 4f fc c9 00 ed 65 21   ..V9.... .O....e!
+Data: 0060  8a d6 c3 2b d4 2f c6 4b  bd a0 5a be ba 53 f4 65   ...+./.K ..Z..S.e
+Data: 0070  15 97 b2 2e 13 ae 42 90  88 2b 8f f4 30 40 c7 86   ......B. .+..0@..
+Data: 0080  54 f9 2c b0 4b 38 0d 11  d8 27 76 69 79 f8 b1 20   T.,.K8.. .'viy...
+Data: 0090  09 5f 8f aa 27 44 88 60  97 c7 fc 7a 82 00 c1 59   ._..'D.` ...z...Y
+Data: 0100  42 7c 28 88 78 76 36 33  e7 55 cd 5a fc 11 c2 03   B|(.xv63 .U.Z....
+Data: 0110  ed 59 ef 0a 54 af 17 84  fc 90 ec c0 b0 dd 6e 8a   .Y..T... ......n.
+Data: 0120  98 1f d8 75 b0 c2 6d f9  5f b7 26 e5 a2 fa ce c6   ...u..m. _.&.....
+Data: 0130  ba a1 c3 b1 d9 65 3f b6  21 5a 82 33 b0 22 45 a9   .....e?. !Z.3."E.
+Data: 0140  04 a5 0b 4f ca e2 b5 9b  d3 82 17 18 48 70 3d 77   ...O.... ....Hp=w
+Data: 0150  f1 cf 9d 9e bb f3 8e 10  4f df 25 d3 fb 7a d7 eb   ........ O.%..z..
+Data: 0160  55 25 8a 1a 49 dd da 4e  50 6b 52 89 cd c2 48 fb   U%..I..N PkR...H.
+Data: 0170  25 ab bb d1 0f 0c a6 0a  99 3c 9c ac aa af 3e 96   %....... .<....>.
+Data: 0180  e3 02 5f c9 0a 6d b6 8e  4c a9 6f df 55 1e d7 12   .._..m.. L.o.U...
+Data: 0190  71 b8 6c 4c 54 ef c5 4b  d5 16 a4 37 59 93 c2 da   q.lLT..K ...7Y...
+Data: 0200  01 dd 33 f1 fa e3 c4 1a  2b a0 7b b9 b2 29 38 7e   ..3..... +.{..)8~
+Data: 0210  ad a3 03 f4 67 de 5e 6f  cb                        ....g.^o .
+€Data:  ******* Raw Hex Output - length=99 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 55 7e 4b 40 00 80 11  70 d8 c0 a8 64 25 40 e9   .U~K@... p...d%@.
+Data: 0020  a5 bd c0 59 01 bb 00 41  23 b7 0c 3d f4 dc 82 d3   ...Y...A #..=....
+Data: 0030  37 5c 69 03 32 45 b5 bd  0c 56 38 dd fa ab fa bc   7\i.2E.. .V8.....
+Data: 0040  8f e7 95 ee f8 a5 08 bc  1c 82 0c c5 ff 62 e2 b7   ........ .....b..
+Data: 0050  78 47 3e 2e cf f5 3d 06  62 27 76 04 29 5d 90 8a   xG>...=. b'v.)]..
+Data: 0060  27 20 18                                           '..
+”Data:  ******* Raw Hex Output - length=287 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  01 11 00 00 40 00 38 11  60 07 ac d9 10 2e c0 a8   ....@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 fd  ae a3 00 2c 11 e2 f7 4f   d%...... ...,...O
+Data: 0030  7d 02 67 89 3c 3b 85 e9  4b 9c fe ee c1 54 d4 6c   }.g.<;.. K....T.l
+Data: 0040  53 20 91 67 1d e9 19 4f  e2 90 45 5a cb e5 a2 d9   S..g...O ..EZ....
+Data: 0050  cd ed d2 c0 a7 5e ff 97  02 d1 e3 00 e5 14 25 35   .....^.. ......%5
+Data: 0060  07 9a 63 4f c5 35 19 43  3c bd 17 c5 21 14 f4 d2   ..cO.5.C <...!...
+Data: 0070  db fb c6 79 4d 13 3e d0  35 01 60 30 73 d7 7a 5c   ...yM.>. 5.`0s.z\
+Data: 0080  63 aa 02 b7 7e a1 e7 7f  be e0 e2 e9 aa 09 1c 28   c...~... .......(
+Data: 0090  c0 7f 46 6d 3b 05 8e 1c  3d 80 3f a6 2a 21 ec c5   ..Fm;... =.?.*!..
+Data: 0100  ce fb a6 dc 5b ef fe d8  e7 d9 da 9f 49 71 9a 39   ....[... ....Iq.9
+Data: 0110  98 1b bd 30 9d d5 da de  b4 bb f9 4d f9 bc d4 fd   ...0.... ...M....
+Data: 0120  d6 a7 10 90 93 cb 7c af  3e 0c 5b 58 14 bb 1b 2f   ......|. >.[X.../
+Data: 0130  4d 0d e1 91 3d d7 27 e3  8c 9d 2d 92 0b 1d 70 1d   M...=.'. ..-...p.
+Data: 0140  f6 0b 0b 19 87 99 61 c2  b3 bf b0 26 6b 98 df 7d   ......a. ...&k..}
+Data: 0150  67 2f bb cb fa 03 38 f7  66 87 bf f9 14 08 4c fb   g/....8. f.....L.
+Data: 0160  d3 64 79 a7 81 b3 79 48  db 36 b7 a1 da 6a 41 ee   .dy...yH .6...jA.
+Data: 0170  a6 7d 52 0a d8 78 7e 9e  54 87 3f 7e a5 1a b8      .}R..x~. T.?~...
+£Data:  ******* Raw Hex Output - length=414 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  01 90 00 00 40 00 38 11  5f 88 ac d9 10 2e c0 a8   ....@.8. _.......
+Data: 0020  64 25 01 bb f7 cf 01 7c  8f fe 00 2d b4 42 45 43   d%.....| ...-.BEC
+Data: 0030  cf 04 21 8e 48 c7 cf ce  98 66 26 9c 35 31 98 7b   ..!.H... .f&.51.{
+Data: 0040  d0 a9 c9 bb f6 64 d8 aa  86 57 57 25 0a 99 7f 71   .....d.. .WW%...q
+Data: 0050  1c 71 74 f4 22 a4 5a 6d  73 7c f4 4c bb 71 f0 8c   .qt.".Zm s|.L.q..
+Data: 0060  98 a4 04 ff 15 b8 30 23  7b b7 fb 45 ad 41 b8 f1   ......0# {..E.A..
+Data: 0070  7b 6d 2d cc 2f 98 e2 41  76 1f fe 48 a2 fc 64 3b   {m-./..A v..H..d;
+Data: 0080  ba c5 f9 72 53 1e f0 3f  e7 45 b0 9b cd 6c 74 a9   ...rS..? .E...lt.
+Data: 0090  84 e0 52 9c 33 e9 90 80  b5 4c 5a 65 e4 4b c7 34   ..R.3... .LZe.K.4
+Data: 0100  c1 20 57 b3 81 a6 18 de  7e e2 69 95 d8 ca 37 0d   ..W..... ~.i...7.
+Data: 0110  85 63 b8 e6 3e 31 be 31  8b 53 1b 89 41 88 23 4c   .c..>1.1 .S..A.#L
+Data: 0120  08 09 73 21 e4 63 8c b7  ab a1 29 1c a7 79 1f fe   ..s!.c.. ..)..y..
+Data: 0130  cc 84 89 52 d1 5a 32 75  88 af da a8 e0 4f 7f 76   ...R.Z2u .....O.v
+Data: 0140  5b 2c 2a 7b d0 56 02 b1  04 67 49 13 52 e6 37 f2   [,*{.V.. .gI.R.7.
+Data: 0150  d9 88 a1 fe d1 8c 1e 4d  c5 31 4c 31 71 f9 22 12   .......M .1L1q.".
+Data: 0160  b8 b9 90 5a 2d 45 60 64  8e f7 9f 63 30 09 09 41   ...Z-E`d ...c0..A
+Data: 0170  b6 41 06 39 aa 28 f5 2e  f4 7d 55 f2 dc 8a b8 b3   .A.9.(.. .}U.....
+Data: 0180  67 4b 21 ba 30 fd 7b e3  38 52 7f 01 9d 54 64 6b   gK!.0.{. 8R...Tdk
+Data: 0190  a5 06 48 04 de bf d8 a4  d1 e8 5d 80 d5 e7 7e 31   ..H..... ..]...~1
+Data: 0200  21 2c c9 9f 96 31 48 09  79 c9 bc c5 44 7f 7a 9e   !,...1H. y...D.z.
+Data: 0210  ea a5 61 53 3a fb 92 a3  10 d5 a0 4f c9 06 ba 03   ..aS:... ...O....
+Data: 0220  de 0f 58 ee ba 62 0d 7a  29 8a 92 01 bd 75 85 82   ..X..b.z )....u..
+Data: 0230  b0 ef 9f 61 d0 7c 4e 16  18 43 db 15 8e eb 0c d9   ...a.|N. .C......
+Data: 0240  7f e5 91 ed bb fd 80 ee  ea cf 60 5a b1 89 da 15   ........ ..`Z....
+Data: 0250  d8 21 cf 53 3c dc b2 92  58 11 ee 85 79 f7         .!.S<... X...y.
+®Data:  ******* Raw Hex Output - length=83 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 45 7e 4c 40 00 80 11  9a 86 c0 a8 64 25 ac d9   .E~L@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 00 31  ad 82 0c a5 e9 6f 36 5d   .......1 .....o6]
+Data: 0030  8b 4d 89 2c 40 93 db ad  45 e1 bc 24 a2 55 3c dc   .M.,@... E..$.U<.
+Data: 0040  ba 6a 3e ea 22 0e 7c 97  04 ba 24 61 9b c0 c5 13   .j>.".|. ..$a....
+Data: 0050  90 59 86                                           .Y.
+ÚData:  ******* Raw Hex Output - length=65 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 33 7e 4d 40 00 80 11  9a 97 c0 a8 64 25 ac d9   .3~M@... ....d%..
+Data: 0020  10 2e c0 9c 01 bb 00 1f  ef 37 0c 0e 95 20 01 d3   ........ .7......
+Data: 0030  83 f8 bb 09 8b 1d f7 a5  ab 1e ad 71 d3 5f 7a 93   ........ ...q._z.
+Data: 0040  61                                                 a
+åData:  ******* Raw Hex Output - length=75 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 3d 00 00 40 00 38 11  60 db ac d9 10 2e c0 a8   .=..@.8. `.......
+Data: 0020  64 25 01 bb c0 9c 00 29  6f 30 00 09 b3 1c 94 a8   d%.....) o0......
+Data: 0030  b9 db 57 ad e9 2b 0f 98  5f d5 dc c0 4e 03 f7 36   ..W..+.. _...N..6
+Data: 0040  88 6c e4 a0 ce 92 43 5e  0d 54 8c                  .l....C^ .T.
+ÏData:  ******* Raw Hex Output - length=339 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  01 45 30 3e 40 00 36 06  15 6e 57 f0 81 49 c0 a8   .E0>@.6. .nW..I..
+Data: 0020  64 25 01 bb c5 b3 59 43  a9 97 4f 09 38 85 50 18   d%....YC ..O.8.P.
+Data: 0030  00 4c e1 ef 00 00 17 03  03 01 18 47 c5 f3 18 98   .L...... ...G....
+Data: 0040  1d 9e ee cd 2b b8 b4 d2  84 75 92 af 37 ee 4f 2b   ....+... .u..7.O+
+Data: 0050  be 20 ba 7b b4 69 4e 45  d1 02 95 81 83 85 c0 9e   ...{.iNE ........
+Data: 0060  99 6c 6e 62 02 d0 9e a8  36 89 86 d1 68 95 5e 13   .lnb.... 6...h.^.
+Data: 0070  e6 b0 2b 6b 7f af f2 f3  53 5f 13 9e e0 93 51 99   ..+k.... S_....Q.
+Data: 0080  c6 0a a2 5e 17 d1 97 0e  69 94 e8 7e 3b c7 d8 49   ...^.... i..~;..I
+Data: 0090  a9 63 56 e1 5e 28 15 9b  2f 5b 61 4a 8f 62 16 7c   .cV.^(.. /[aJ.b.|
+Data: 0100  74 6b 56 05 65 59 c7 ef  a5 6e 22 cf e4 a1 73 29   tkV.eY.. .n"...s)
+Data: 0110  96 c9 52 1d 0f 44 fd 7c  aa 3d 85 bc 09 ac 44 d2   ..R..D.| .=....D.
+Data: 0120  b7 df 87 13 25 44 41 f2  a4 93 c2 b7 60 71 bd b7   ....%DA. ....`q..
+Data: 0130  15 93 92 c8 20 8a 56 7e  d7 78 fc 2c 26 ef 1c e6   ......V~ .x.,&...
+Data: 0140  16 51 a0 86 19 84 d2 5a  ee e1 3a b6 dd 43 9f 0c   .Q.....Z ..:..C..
+Data: 0150  21 35 fc 6d e7 5a 52 74  b6 91 b5 31 f8 30 c4 ba   !5.m.ZRt ...1.0..
+Data: 0160  8e d6 c1 e4 b7 5b 34 56  2a 6b 71 3d d8 eb 1b 0f   .....[4V *kq=....
+Data: 0170  59 39 6e f8 2a bc 84 f4  22 7a 3d 98 13 64 6d 8e   Y9n.*... "z=..dm.
+Data: 0180  7c cb 1b ee 3e ce 2c 2b  b2 8a 19 fc 49 75 a9 b4   |...>.,+ ....Iu..
+Data: 0190  03 6b d1 f5 7b d1 35 24  ab 7c 5c 44 2f 39 7a 6b   .k..{.5$ .|\D/9zk
+Data: 0200  18 d2 da 06 f0 69 29 85  94 f8 b9 5c c4 df 79 8e   .....i). ...\..y.
+Data: 0210  71 9e 65                                           q.e
+Data:  ******* Raw Hex Output - length=54 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 28 7e 4e 40 00 80 06  7e 7a c0 a8 64 25 57 f0   .(~N@... ~z..d%W.
+Data: 0020  81 49 c5 b3 01 bb 4f 09  38 85 59 43 aa b4 50 10   .I....O. 8.YC..P.
+Data: 0030  40 65 1e 73 00 00                                  @e.s..
+òData:  ******* Raw Hex Output - length=370 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  01 64 7e 4f 40 00 80 06  7d 3d c0 a8 64 25 57 f0   .d~O@... }=..d%W.
+Data: 0020  81 49 c5 b3 01 bb 4f 09  38 85 59 43 aa b4 50 18   .I....O. 8.YC..P.
+Data: 0030  40 65 f3 7b 00 00 17 03  03 01 37 00 00 00 00 00   @e.{.... ..7.....
+Data: 0040  00 00 0b 5e 08 81 7e 1f  6a 4b 2a 6c 74 d2 8b c0   ...^..~. jK*lt...
+Data: 0050  02 af d4 11 05 5b 9c 84  8c 52 fb 25 3b a6 61 ef   .....[.. .R.%;.a.
+Data: 0060  4c 6e 0f 97 ba d1 c2 8d  e5 f7 97 e4 d1 09 c4 3f   Ln...... .......?
+Data: 0070  77 b5 50 9e 55 60 4a cc  04 3b be 23 01 8a c1 42   w.P.U`J. .;.#...B
+Data: 0080  27 be 79 dd d5 f8 5c 20  ca 4a 85 2e d0 04 e4 12   '.y...\. .J......
+Data: 0090  61 83 4b f1 d4 0a 21 f2  96 79 ec c2 9d 1d fd 1e   a.K...!. .y......
+Data: 0100  e6 f4 05 dc 86 dd 85 da  67 18 ef 69 b1 cf 89 c4   ........ g..i....
+Data: 0110  a7 75 c3 74 2a 7b dd 0a  01 a0 1b 3e 72 46 6d 51   .u.t*{.. ...>rFmQ
+Data: 0120  f3 d8 ce 2e 0c 85 4b 2d  bf 1c 66 68 07 75 eb 96   ......K- ..fh.u..
+Data: 0130  35 36 5a 9b 80 4a ed 0f  c5 0e a9 fd 85 95 4f 3f   56Z..J.. ......O?
+Data: 0140  13 e7 b1 4e fb 8f 8a 6e  6b d0 b7 3f 52 e5 8b c6   ...N...n k..?R...
+Data: 0150  6d 8f 96 70 03 06 85 72  04 e1 4f 78 87 97 16 f8   m..p...r ..Ox....
+Data: 0160  89 f3 04 a7 a9 98 4b ac  c6 a7 bf 43 8f 39 79 33   ......K. ...C.9y3
+Data: 0170  0b a8 0a 67 39 c4 ae fa  12 93 c3 6b c5 ef be e6   ...g9... ...k....
+Data: 0180  f5 03 9c cb e2 ab 8a eb  e8 7a aa 85 de 61 4c 42   ........ .z...aLB
+Data: 0190  9c bb bb 3a 9e c4 38 5c  96 3f 45 ac e9 0c ba 41   ...:..8\ .?E....A
+Data: 0200  db cb d8 b4 0d 3b 05 f2  90 b5 53 01 f6 2f 31 a9   .....;.. ..S../1.
+Data: 0210  dd 93 4d dc b7 cd 3a 58  d6 0c e9 c8 62 20 22 61   ..M...:X ....b."a
+Data: 0220  a9 7f 8e f8 96 96 81 f0  74 d6 fb 31 ec a9 b6 7b   ........ t..1...{
+Data: 0230  f6 8d                                              ..
+£Data:  ******* Raw Hex Output - length=357 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  01 57 7e 50 40 00 80 06  7d 49 c0 a8 64 25 57 f0   .W~P@... }I..d%W.
+Data: 0020  81 49 c5 b3 01 bb 4f 09  39 c1 59 43 aa b4 50 18   .I....O. 9.YC..P.
+Data: 0030  40 65 9f 9a 00 00 17 03  03 01 2a 00 00 00 00 00   @e...... ..*.....
+Data: 0040  00 00 0c c2 9a ee 9f 41  24 d2 94 38 10 99 ee 83   .......A $..8....
+Data: 0050  d8 5e e1 47 d2 12 0c e4  97 f0 32 ab 8a b9 87 7e   .^.G.... ..2....~
+Data: 0060  7d 8c 35 6e 86 11 e8 34  66 7e e0 7e 1a 80 8c 81   }.5n...4 f~.~....
+Data: 0070  3b 2c de c7 18 94 0f eb  e1 ae aa ae 3d 52 e6 d9   ;,...... ....=R..
+Data: 0080  bc c5 46 73 71 ba 92 46  30 5a a2 59 e2 70 bd d9   ..Fsq..F 0Z.Y.p..
+Data: 0090  2c a5 cc 63 5f bc a7 d4  8e 96 13 cc 23 7f 74 90   ,..c_... ....#.t.
+Data: 0100  0b fa cb 3b 1e d1 bd d6  ce dd a2 84 d7 8d d4 2f   ...;.... ......./
+Data: 0110  91 9b d1 2a 2e 45 15 aa  4d 25 35 d7 10 ed b6 61   ...*.E.. M%5....a
+Data: 0120  74 38 f2 c4 af 51 72 86  21 30 07 11 43 06 c0 00   t8...Qr. !0..C...
+Data: 0130  9d 16 73 38 19 1b c6 9f  e1 59 8b ee 13 ce 64 6f   ..s8.... .Y....do
+Data: 0140  4c eb a4 9e db ff 50 88  2b 46 6d cb b2 ed eb 75   L.....P. +Fm....u
+Data: 0150  b9 1e 20 0c d0 8e cb b1  29 5a 8b d9 08 47 5a 15   ........ )Z...GZ.
+Data: 0160  6e c8 52 4d 73 6d 6b 6e  2d 72 45 7f 72 a9 eb 14   n.RMsmkn -rE.r...
+Data: 0170  41 e8 14 b2 32 de ea 06  31 c5 e4 d4 12 b1 00 27   A...2... 1......'
+Data: 0180  6b 24 ca 62 09 7b 16 a6  c0 ed 54 07 78 e4 29 f3   k$.b.{.. ..T.x.).
+Data: 0190  20 87 8d 1e e0 84 1e 72  60 12 f7 87 bd ea f6 db   .......r `.......
+Data: 0200  3b 69 92 e1 eb 77 fc 7f  1c b7 19 e4 f8 81 5f 8f   ;i...w.. ......_.
+Data: 0210  ad bc 54 f1 31 02 84 cb  8b 17 dc 25 72 90 dd b4   ..T.1... ...%r...
+Data: 0220  7d 58 b6 d8 21                                     }X..!
+Data:  ******* Raw Hex Output - length=54 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 28 30 3f 40 00 36 06  16 8a 57 f0 81 49 c0 a8   .(0?@.6. ..W..I..
+Data: 0020  64 25 01 bb c5 b3 59 43  aa b4 4f 09 39 c1 50 10   d%....YC ..O.9.P.
+Data: 0030  00 50 5d 4c 00 00                                  .P]L..
+¼Data:  ******* Raw Hex Output - length=96 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 52 30 40 40 00 36 06  16 5f 57 f0 81 49 c0 a8   .R0@@.6. ._W..I..
+Data: 0020  64 25 01 bb c5 b3 59 43  aa b4 4f 09 39 c1 50 18   d%....YC ..O.9.P.
+Data: 0030  00 50 4b 1d 00 00 17 03  03 00 25 47 c5 f3 18 98   .PK..... ..%G....
+Data: 0040  1d 9e ef 3e bb 56 ad 59  c5 61 2d 57 27 23 31 ba   ...>.V.Y .a-W'#1.
+Data: 0050  8b 5b 0b 2b f4 d2 ae 88  63 0d a3 4d 75 59 7d 6c   .[.+.... c..MuY}l
+Data:  ******* Raw Hex Output - length=54 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 28 30 41 40 00 36 06  16 88 57 f0 81 49 c0 a8   .(0A@.6. ..W..I..
+Data: 0020  64 25 01 bb c5 b3 59 43  aa de 4f 09 3a f0 50 10   d%....YC ..O.:.P.
+Data: 0030  00 53 5b f0 00 00                                  .S[...
+Data:  ******* Raw Hex Output - length=54 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 28 7e 51 40 00 80 06  7e 77 c0 a8 64 25 57 f0   .(~Q@... ~w..d%W.
+Data: 0020  81 49 c5 b3 01 bb 4f 09  3a f0 59 43 aa de 50 10   .I....O. :.YC..P.
+Data: 0030  40 5b 1b e8 00 00                                  @[....
+üData:  ******* Raw Hex Output - length=322 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  01 34 7e 52 40 00 80 11  99 91 c0 a8 64 25 ac d9   .4~R@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 01 20  bb fd 0c a5 e9 6f 36 5d   ........ .....o6]
+Data: 0030  8b 4d 89 2d a0 0e 3b 1a  d4 86 c2 c2 e4 a7 70 09   .M.-..;. ......p.
+Data: 0040  65 55 0b 60 94 43 de 46  3e 7b 3f cf 27 26 35 03   eU.`.C.F >{?.'&5.
+Data: 0050  6d b2 b2 39 3f ee a0 1a  ea cb d7 e4 9c 42 1e c2   m..9?... .....B..
+Data: 0060  45 23 0f 96 4b 2f 65 bb  cd de 86 03 18 4e 15 66   E#..K/e. .....N.f
+Data: 0070  6b 9d d5 aa df ca 1a 39  c0 c1 8e 97 de 2d b7 3e   k......9 .....-.>
+Data: 0080  e1 8a 51 9e 7d da 6c 51  55 5a 01 33 57 b7 95 38   ..Q.}.lQ UZ.3W..8
+Data: 0090  db 6f 43 ff 69 00 35 76  d3 dd 1b 75 9f 95 ec ef   .oC.i.5v ...u....
+Data: 0100  0f 29 78 96 aa 2f 8c 55  46 74 ec 7b 58 12 eb b3   .)x../.U Ft.{X...
+Data: 0110  ed 4c a6 1b 1b c5 bb f5  30 d6 f8 fb ee e1 37 d2   .L...... 0.....7.
+Data: 0120  a8 31 f9 fc 9c 0a a6 95  b5 1e 4a 67 1b 67 7c aa   .1...... ..Jg.g|.
+Data: 0130  6e a5 15 60 21 d9 32 86  f5 84 cd b1 70 be d0 c0   n..`!.2. ....p...
+Data: 0140  94 fb 9a e4 4f de a9 37  23 3d 21 8b b2 26 72 ba   ....O..7 #=!..&r.
+Data: 0150  65 71 1a f1 e9 d1 91 72  02 8e 21 29 49 eb a3 da   eq.....r ..!)I...
+Data: 0160  a4 4f 7a 26 b0 30 e6 1a  97 c5 5a 45 4a 79 b3 00   .Oz&.0.. ..ZEJy..
+Data: 0170  03 31 4b a5 4e c6 f5 be  9e 65 42 e1 b4 19 48 d4   .1K.N... .eB...H.
+Data: 0180  11 78 dd 79 ab 9e 75 53  e5 0a 80 b4 56 f1 bd 96   .x.y..uS ....V...
+Data: 0190  dd 1f 24 8f 57 3a 64 97  8f 24 8c e3 98 8e 3c 6c   ..$.W:d. .$....<l
+Data: 0200  a8 93                                              ..
+Æ
+Data:  ******* Raw Hex Output - length=217 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 cb 7e 53 40 00 80 11  99 f9 c0 a8 64 25 ac d9   ..~S@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 00 b7  16 03 0c a5 e9 6f 36 5d   ........ .....o6]
+Data: 0030  8b 4d 89 2e 82 08 6c ff  a4 48 2f 4a c8 c1 9c 28   .M....l. .H/J...(
+Data: 0040  21 c2 a7 f8 0d 46 48 89  a4 8f 12 dc 04 df 23 b4   !....FH. ......#.
+Data: 0050  be fd 5b 6b e6 1a 99 25  fb 27 4c e6 44 75 48 9c   ..[k...% .'L.DuH.
+Data: 0060  76 0e c3 a7 bc f9 86 b7  30 14 f1 44 99 f5 6a cb   v....... 0..D..j.
+Data: 0070  85 c9 df 7c 55 fb 6b 71  d4 74 55 5b a4 37 20 19   ...|U.kq .tU[.7..
+Data: 0080  6a 63 08 e1 29 a6 73 d8  e7 64 c6 58 57 d9 a5 f5   jc..).s. .d.XW...
+Data: 0090  0a 3d 26 b4 1e 2c 68 f9  20 fa f8 66 12 ab 6b 67   .=&..,h. ...f..kg
+Data: 0100  d2 a4 f0 6c 53 b4 e7 5f  71 7b 9a e5 42 f9 e0 b4   ...lS.._ q{..B...
+Data: 0110  05 bd 22 13 c1 6d db 8b  86 8d f7 bf 96 45 7d 10   .."..m.. .....E}.
+Data: 0120  42 05 cc c3 57 04 7e ea  66 ac ab 0f ef 0b a5 9d   B...W.~. f.......
+Data: 0130  bc 4e d2 3c 39 25 35 b6  65                        .N.<9%5. e
+åData:  ******* Raw Hex Output - length=75 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 3d 00 00 40 00 38 11  60 db ac d9 10 2e c0 a8   .=..@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 29  b1 9e 00 2e ff c6 4b 72   d%.....) ......Kr
+Data: 0030  6f bd ec 2e 38 97 c1 9b  1f ca 37 ee d0 26 fa 4c   o...8... ..7..&.L
+Data: 0040  0e 45 41 b9 85 25 9a 84  4b 41 f4                  .EA..%.. KA.
+ØData:  ******* Raw Hex Output - length=290 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  01 14 00 00 40 00 38 11  60 04 ac d9 10 2e c0 a8   ....@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 01 00  6d 45 00 2f 17 09 f9 d4   d%...... mE./....
+Data: 0030  07 08 29 15 3a 14 58 b7  c2 66 24 cb ec 1e 66 e9   ..).:.X. .f$...f.
+Data: 0040  b1 d3 ae 76 fd 6e 6e 20  b5 8a 4f 2d 27 9a 76 f7   ...v.nn. ..O-'.v.
+Data: 0050  02 e0 a4 dc cc a0 4f 31  5a 7e 70 da e6 dc 26 ec   ......O1 Z~p...&.
+Data: 0060  67 fe 7e c9 cb 5c de 85  8e 37 9b f6 f1 a4 8f 73   g.~..\.. .7.....s
+Data: 0070  7c 93 b2 c2 e0 e8 2e ac  24 2b 7b be 18 eb f6 52   |....... $+{....R
+Data: 0080  65 4b 0c 57 5d 9b ee 2c  7b ac 1c a3 9c e2 f8 31   eK.W].., {......1
+Data: 0090  4e 80 ce ec fb 76 78 a2  f6 d6 e9 4f 56 21 a2 ea   N....vx. ...OV!..
+Data: 0100  27 87 e1 fd db 44 a3 a5  03 df bd 3e 40 86 79 12   '....D.. ...>@.y.
+Data: 0110  6e 15 99 cb 16 a9 b4 2f  d3 f5 f0 fd 23 4d 15 88   n....../ ....#M..
+Data: 0120  0c 69 b9 7d 83 fb 38 99  b9 1d 2e be a1 6f ea 64   .i.}..8. .....o.d
+Data: 0130  a7 73 e5 b4 9a 76 ce 56  9f 1e 61 61 c3 22 8e 01   .s...v.V ..aa."..
+Data: 0140  4b 33 d0 b5 70 e8 1e cf  82 07 3c e3 82 6f 39 ec   K3..p... ..<..o9.
+Data: 0150  61 eb 17 49 45 36 7e cc  75 e0 6c 89 2f 82 5e a1   a..IE6~. u.l./.^.
+Data: 0160  e2 2c bd 1a b9 cc 5a 7a  14 d6 3d bf 31 2d 4b 1f   .,....Zz ..=.1-K.
+Data: 0170  44 a4 2f 50 8a 17 b6 2f  b1 3f ee 3c 01 9f cb 05   D./P.../ .?.<....
+Data: 0180  92 cf                                              ..
+¸Data:  ******* Raw Hex Output - length=262 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 f8 00 00 40 00 38 11  60 20 ac d9 10 2e c0 a8   ....@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 e4  18 ee 00 30 32 76 89 87   d%...... ...02v..
+Data: 0030  0b 8f 26 59 1f f4 8c ed  73 69 36 45 bf ae df 79   ..&Y.... si6E...y
+Data: 0040  2e 77 7b 38 d2 23 86 2a  94 e8 15 9c 26 76 a5 19   .w{8.#.* ....&v..
+Data: 0050  c1 ab fc 99 3f a4 92 7b  2f e6 74 ac f2 7e 6d 63   ....?..{ /.t..~mc
+Data: 0060  5e 37 2e 42 8d f7 52 66  20 20 bb 30 a4 c1 57 a6   ^7.B..Rf ...0..W.
+Data: 0070  72 16 a5 b6 25 4d 3c 70  04 5b ef d7 77 57 83 5a   r...%M<p .[..wW.Z
+Data: 0080  f3 9e 58 5c d3 14 55 8f  b4 1c 15 2a f2 e1 92 28   ..X\..U. ...*...(
+Data: 0090  69 c7 28 3d b2 83 0f f8  b4 05 68 52 60 fd 2c ce   i.(=.... ..hR`.,.
+Data: 0100  90 84 62 d7 c2 1d ba 5e  31 53 e3 25 9b f3 ad e1   ..b....^ 1S.%....
+Data: 0110  aa b7 b8 7f 3c de f5 3c  4e 45 f4 89 50 5d 7f 97   ....<..< NE..P]..
+Data: 0120  44 d4 14 cc 31 51 36 20  b9 81 fe e5 c5 28 f1 36   D...1Q6. .....(.6
+Data: 0130  84 fb d1 23 18 e3 5f 11  99 f9 cb 52 75 3e 6a 53   ...#.._. ...Ru>jS
+Data: 0140  aa 24 11 30 4b 92 7b f1  8d d5 28 ed 96 77 b3 0d   .$.0K.{. ..(..w..
+Data: 0150  21 a4 fd f7 84 4c d1 b7  b9 2b 72 68 86 ed 63 ee   !....L.. .+rh..c.
+Data: 0160  60 3d 60 24 21 ec                                  `=`$!.
+®Data:  ******* Raw Hex Output - length=83 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 45 7e 54 40 00 80 11  9a 7e c0 a8 64 25 ac d9   .E~T@... .~..d%..
+Data: 0020  10 2e f7 cf 01 bb 00 31  d5 84 0c a5 e9 6f 36 5d   .......1 .....o6]
+Data: 0030  8b 4d 89 2f b5 30 2e af  a3 ec 56 8b 1b 43 8d 36   .M./.0.. ..V..C.6
+Data: 0040  af 22 db 25 a0 31 de c6  2a a0 70 98 78 27 b0 bf   .".%.1.. *.p.x'..
+Data: 0050  39 85 80                                           9..
+ÄData:  ******* Raw Hex Output - length=443 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  01 ad 7e 55 40 00 80 11  99 15 c0 a8 64 25 ac d9   ..~U@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 01 99  d1 11 0c a5 e9 6f 36 5d   ........ .....o6]
+Data: 0030  8b 4d 89 30 7e 19 fc ee  67 03 d0 c5 c0 02 8d c3   .M.0~... g.......
+Data: 0040  6d db 6d 71 ab 55 b7 e0  98 b4 1f ac 16 e8 b5 c6   m.mq.U.. ........
+Data: 0050  ee db 56 73 07 2b 11 96  9a 8b 3b e3 f7 67 c8 e2   ..Vs.+.. ..;..g..
+Data: 0060  4a ca bc 59 ee 0b 08 dd  76 4b dc 11 cf 34 c6 33   J..Y.... vK...4.3
+Data: 0070  4a 6e 6b 43 72 d8 d7 cb  ce 87 4a 32 ac e7 34 0c   JnkCr... ..J2..4.
+Data: 0080  75 82 47 ee b3 d4 4b a5  a6 f3 08 bc bc 6b 6c dd   u.G...K. .....kl.
+Data: 0090  91 32 98 c2 d2 be 67 e4  b6 36 85 fb 3a 25 b0 fa   .2....g. .6..:%..
+Data: 0100  3e 25 94 f9 f1 6f f8 c0  15 85 76 b5 8b c8 96 98   >%...o.. ..v.....
+Data: 0110  d5 d6 47 31 cb 2e ab e3  97 77 39 2f 55 09 c1 43   ..G1.... .w9/U..C
+Data: 0120  a3 94 c8 aa 1f 8c 8c 57  2c fa 49 22 35 35 77 77   .......W ,.I"55ww
+Data: 0130  d7 6c 65 9e c6 48 29 47  ca ab 7d b9 82 e6 cb b7   .le..H)G ..}.....
+Data: 0140  1d 71 ee 26 50 64 9f a2  58 a5 ca cc 0d 63 e9 9c   .q.&Pd.. X....c..
+Data: 0150  36 54 7a a6 77 17 61 3d  55 a4 68 56 b7 aa 22 1e   6Tz.w.a= U.hV..".
+Data: 0160  6a f6 26 87 7a f5 95 01  1a b8 b5 d7 04 41 e2 4c   j.&.z... .....A.L
+Data: 0170  24 2d 5d 67 03 ad e9 46  25 ae cb 90 b9 ce 01 87   $-]g...F %.......
+Data: 0180  d7 24 41 0e 57 46 77 ee  1a c6 b8 98 65 69 30 98   .$A.WFw. ....ei0.
+Data: 0190  54 5a 52 7f 12 b1 9b a4  11 ac 0a 02 f3 ee 1a 95   TZR..... ........
+Data: 0200  bb ad 44 0f 70 70 66 9e  54 12 fe 26 f1 7f 31 33   ..D.ppf. T..&..13
+Data: 0210  a5 db 08 35 0e 2e f3 a8  e3 21 a9 3a ac c3 8a a9   ...5.... .!.:....
+Data: 0220  b4 48 c2 f8 fa f7 86 69  b4 f7 f3 2e 97 90 e7 d4   .H.....i ........
+Data: 0230  6c dd 62 ac 2b 8f dd e6  a7 33 ad e3 47 a6 f8 a5   l.b.+... .3..G...
+Data: 0240  ba 50 99 e8 83 e8 95 0f  a7 50 21 7d ac 0b 06 41   .P...... .P!}...A
+Data: 0250  91 ba 69 f3 a0 37 f9 af  99 b9 e4 4c 95 51 43 ce   ..i..7.. ...L.QC.
+Data: 0260  e2 a5 70 6b 1d 3d 8b 39  7d 6f d4 47 98 10 a8 a5   ..pk.=.9 }o.G....
+Data: 0270  41 e1 3b c2 9c 36 1f 04  67 65 a3                  A.;..6.. ge.
+üData:  ******* Raw Hex Output - length=550 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  02 18 7e 56 40 00 80 11  98 a9 c0 a8 64 25 ac d9   ..~V@... ....d%..
+Data: 0020  10 2e f7 cf 01 bb 02 04  1c bd 0c a5 e9 6f 36 5d   ........ .....o6]
+Data: 0030  8b 4d 89 31 be 4b 42 26  ae 97 c3 1d 22 0f 68 e0   .M.1.KB& ....".h.
+Data: 0040  b5 98 04 42 ed 7d 3d c9  21 56 ed 45 32 fc bf 58   ...B.}=. !V.E2..X
+Data: 0050  62 8e d0 c5 d6 bf 79 52  0c a2 83 2b a8 9a 88 31   b.....yR ...+...1
+Data: 0060  3a 86 b2 91 8c 86 b5 b7  b6 71 f5 6b 75 85 0a 8a   :....... .q.ku...
+Data: 0070  83 fb b6 a6 84 4d 65 23  06 8b 39 50 f5 77 dc 8e   .....Me# ..9P.w..
+Data: 0080  65 df b0 44 9e 1e f7 50  ef b3 83 ed 1b c9 ae b6   e..D...P ........
+Data: 0090  91 59 03 c1 2b a2 32 a5  c5 9d b4 3d aa 42 2b 1b   .Y..+.2. ...=.B+.
+Data: 0100  8f 8b fa 10 58 fb 08 9e  4e 53 b4 35 2c 63 23 45   ....X... NS.5,c#E
+Data: 0110  29 60 96 ca 00 bf ff ff  e0 fb 1d f5 ff bb 10 64   )`...... .......d
+Data: 0120  6f a2 a2 e2 c8 d2 d1 ac  2e 2b 04 9f 3d 8f 29 a3   o....... .+..=.).
+Data: 0130  d7 46 6e b6 a6 78 48 a5  ef cd a3 5c 71 2b 27 0a   .Fn..xH. ...\q+'.
+Data: 0140  95 4b 32 db 69 f8 7e d2  f3 97 45 f6 a5 84 b3 0c   .K2.i.~. ..E.....
+Data: 0150  12 c8 21 f2 82 51 e4 72  e8 18 2d 34 91 c9 74 3e   ..!..Q.r ..-4..t>
+Data: 0160  98 e0 73 58 60 2b d4 b7  44 e2 bf 3c 77 83 a7 03   ..sX`+.. D..<w...
+Data: 0170  ef ec ee 36 fc 57 0f fd  c1 fa b9 81 b6 d9 39 63   ...6.W.. ......9c
+Data: 0180  04 6d 93 d5 57 16 8f d3  bf be 80 bc b9 52 41 40   .m..W... .....RA@
+Data: 0190  d0 23 de ad 7a 9c 1a ba  83 e9 9b 65 47 e6 ae 44   .#..z... ...eG..D
+Data: 0200  75 9c bb 47 28 41 c7 b1  bb f3 e2 a3 01 31 44 15   u..G(A.. .....1D.
+Data: 0210  86 83 85 1f 32 13 54 a0  31 f3 a5 92 b6 d7 25 20   ....2.T. 1.....%.
+Data: 0220  49 48 4c 0b be a7 44 66  98 88 51 dc 25 91 f4 1b   IHL...Df ..Q.%...
+Data: 0230  29 1a 88 5f 9c f6 40 8c  1d 15 47 bd 44 1b 7d 5e   ).._..@. ..G.D.}^
+Data: 0240  fb f1 09 7e 2a 52 12 84  79 69 a1 0a b9 08 6e 47   ...~*R.. yi....nG
+Data: 0250  ec de b4 59 b6 b8 d2 da  a5 7b c6 6a 19 0b 39 6f   ...Y.... .{.j..9o
+Data: 0260  50 d8 9d 0f 85 3d d8 de  f3 47 16 f0 c3 87 da 56   P....=.. .G.....V
+Data: 0270  cb 15 be 0e 05 cf 50 e8  22 b7 62 09 55 7c c8 1a   ......P. ".b.U|..
+Data: 0280  ea 2c 4b 1d ef 2b 09 9f  8c 53 c6 fe 73 c5 3b ae   .,K..+.. .S..s.;.
+Data: 0290  bf 8a 14 1e c2 b8 ff 79  ca 63 c5 63 53 14 86 b1   .......y .c.cS...
+Data: 0300  a5 b6 7f be 42 0c f9 d4  7f 14 5e 60 21 21 fb 81   ....B... ..^`!!..
+Data: 0310  62 c1 2f 94 cc 69 24 e6  d4 f6 5f 9e 08 48 77 87   b./..i$. .._..Hw.
+Data: 0320  1a a4 bc 63 c4 5a f5 c3  d2 90 90 01 1a 04 46 41   ...c.Z.. ......FA
+Data: 0330  fd 49 32 ac 7e 8f ad 90  db d4 6b ee a8 47 95 f4   .I2.~... ..k..G..
+Data: 0340  17 ac 21 f4 ae 52                                  ..!..R
+åData:  ******* Raw Hex Output - length=75 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 3d 00 00 40 00 38 11  60 db ac d9 10 2e c0 a8   .=..@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 29  1b b4 00 31 a6 b7 7f ef   d%.....) ...1....
+Data: 0030  a7 36 52 25 8a 35 77 64  84 d7 33 63 41 dd be 2c   .6R%.5wd ..3cA..,
+Data: 0040  f7 ba 04 47 99 59 ba 43  0c d5 d2                  ...G.Y.C ...
+Ì
+Data:  ******* Raw Hex Output - length=223 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 d1 00 00 40 00 38 11  60 47 ac d9 10 2e c0 a8   ....@.8. `G......
+Data: 0020  64 25 01 bb f7 cf 00 bd  c7 04 00 32 5b fd 97 a0   d%...... ...2[...
+Data: 0030  50 9c 89 99 bd 42 96 33  1e 94 6b c0 88 13 ac db   P....B.3 ..k.....
+Data: 0040  0d 75 a7 5a d2 d9 df 7c  6f 9d 08 7f cd fd e5 5b   .u.Z...| o......[
+Data: 0050  ad 99 9b e5 49 53 8d 69  c1 03 af 6e fe 1a 58 47   ....IS.i ...n..XG
+Data: 0060  33 a5 21 56 af 83 1d 7d  41 43 82 8a e1 60 76 cb   3.!V...} AC...`v.
+Data: 0070  a6 0f 37 e6 e8 9a 31 67  11 5b 4e 7c c1 7e ba 2e   ..7...1g .[N|.~..
+Data: 0080  5f c2 66 25 cb d3 ec f2  c8 b3 a9 48 66 07 e0 c3   _.f%.... ...Hf...
+Data: 0090  fc e2 2e 0d 14 8c cb 5c  88 fe d2 fd 17 b6 21 49   .......\ ......!I
+Data: 0100  8c 15 01 94 90 b6 15 00  0b dd 11 82 29 01 76 a3   ........ ....).v.
+Data: 0110  db cf e5 e5 8e dc 93 03  11 9f c6 e9 fc b8 59 c0   ........ ......Y.
+Data: 0120  c6 9e 39 78 c6 20 91 60  07 ac f4 57 3b 03 0c 6a   ..9x...` ...W;..j
+Data: 0130  81 61 24 28 88 f9 cd 2b  a6 1d 45 df 09 32 8a      .a$(...+ ..E..2.
+’Data:  ******* Raw Hex Output - length=58 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  00 2c 00 00 40 00 38 11  60 ec ac d9 10 2e c0 a8   .,..@.8. `.......
+Data: 0020  64 25 01 bb f7 cf 00 18  38 3e 00 33 04 d1 65 2c   d%...... 8>.3..e,
+Data: 0030  23 a6 49 75 bf 25 f9 c7  5b e6                     #.Iu.%.. [.
+®Data:  ******* Raw Hex Output - length=83 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 45 7e 57 40 00 80 11  9a 7b c0 a8 64 25 ac d9   .E~W@... .{..d%..
+Data: 0020  10 2e f7 cf 01 bb 00 31  44 15 0c a5 e9 6f 36 5d   .......1 D....o6]
+Data: 0030  8b 4d 89 32 51 59 5f df  72 b8 fa f6 f0 87 3d cb   .M.2QY_. r.....=.
+Data: 0040  82 fd 23 11 ca 6b 9d 98  99 0f 45 4b ce 64 0c b4   ..#..k.. ..EK.d..
+Data: 0050  4c 62 3e                                           Lb>
+ßData:  ******* Raw Hex Output - length=524 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  28 c2 dd 99 83 e5 84 74  2a 14 d3 ef 08 00 45 00   (......t *.....E.
+Data: 0010  01 fe 00 00 40 00 38 11  35 7b 40 e9 a5 bd c0 a8   ....@.8. 5{@.....
+Data: 0020  64 25 01 bb c0 59 01 ea  be a8 00 4e bd 63 12 e0   d%...Y.. ...N.c..
+Data: 0030  22 fd 26 ce af ab a5 82  f3 7d 8d 82 51 25 fc 2e   ".&..... .}..Q%..
+Data: 0040  4a 0c 09 b5 57 b1 b3 bb  ab 6f e9 d5 4a 10 f7 14   J...W... .o..J...
+Data: 0050  32 ea 1e e9 28 ca dc f3  e4 e8 c4 f5 e5 f8 af 12   2...(... ........
+Data: 0060  1b 4d 87 fb 98 9e 27 a4  7f 3d d7 82 7d 6e 4b 47   .M....'. .=..}nKG
+Data: 0070  75 83 3e 45 5f 12 b6 a3  01 37 35 7b 8c 95 40 32   u.>E_... .75{..@2
+Data: 0080  1b 4c 6c f2 c2 04 55 da  70 a5 8c 53 ec 1f 9f 0e   .Ll...U. p..S....
+Data: 0090  32 33 51 3c a7 da e1 f3  c0 3b c5 ca 90 42 9c d9   23Q<.... .;...B..
+Data: 0100  7a 44 0f cd 7c bd 09 3d  6c 5c 39 6f b1 55 46 9d   zD..|..= l\9o.UF.
+Data: 0110  96 36 63 43 f2 4f bd 83  71 25 0a a7 b3 df 3b 74   .6cC.O.. q%....;t
+Data: 0120  d2 85 94 65 3b 1a 25 2c  67 85 07 1b 95 f8 70 fe   ...e;.%, g.....p.
+Data: 0130  44 f7 89 c2 52 1e 47 1c  ae da 26 d5 e6 87 db 06   D...R.G. ..&.....
+Data: 0140  2d 82 70 05 13 62 20 f5  db 9e 1e 47 93 9d 7a 81   -.p..b.. ...G..z.
+Data: 0150  42 be 32 f1 77 c4 d7 2f  72 b0 e4 50 93 31 26 75   B.2.w../ r..P.1&u
+Data: 0160  6c 66 bc 9e 8a 76 66 33  1f 10 59 03 71 35 3c 01   lf...vf3 ..Y.q5<.
+Data: 0170  e4 ae 39 89 89 6a 0d 6a  8c d8 fc 58 dc b1 9c 7d   ..9..j.j ...X...}
+Data: 0180  c1 69 32 40 8e a2 3a 2e  04 bd 39 8c 05 05 8c a5   .i2@..:. ..9.....
+Data: 0190  ff e4 ab 9c 5e a3 e6 0c  19 24 19 f5 63 36 0f 58   ....^... .$..c6.X
+Data: 0200  23 f2 e5 38 aa aa 19 c1  53 43 0d cc cd 69 4b be   #..8.... SC...iK.
+Data: 0210  6c 50 45 6f 76 86 82 6b  c8 3c 9e 50 f7 a6 ab 81   lPEov..k .<.P....
+Data: 0220  ce d8 21 8c 5f 7e b1 d8  78 da c4 50 66 90 9b ae   ..!._~.. x..Pf...
+Data: 0230  1c f4 b5 57 0b fc 87 38  64 1d 26 66 1c e8 19 5b   ...W...8 d.&f...[
+Data: 0240  64 f5 80 d6 52 2b 68 57  4a 35 71 5f 7c b1 fa d5   d...R+hW J5q_|...
+Data: 0250  9d 5d af 24 df 0a a5 8e  43 99 d7 53 ef 97 1f e0   .].$.... C..S....
+Data: 0260  bb c7 92 d3 37 0c a5 c7  bf a5 26 bb bb dc 73 b4   ....7... ..&...s.
+Data: 0270  86 0f 24 d4 d8 41 31 4f  1f 6b 91 a3 f9 d9 33 c3   ..$..A1O .k....3.
+Data: 0280  34 98 d2 30 43 f9 b1 d5  42 a7 98 19 3a 11 70 f0   4..0C... B...:.p.
+Data: 0290  74 a1 93 ac b4 21 b0 96  1c 30 07 74 50 a5 4f 81   t....!.. .0.tP.O.
+Data: 0300  e0 29 04 cd bd 59 28 74  fd 72 3a 6d 81 fa 26 12   .)...Y(t .r:m..&.
+Data: 0310  ab 64 92 f7 e7 5c 7d 5e  61 fc f4 31 04 90 ef 2e   .d...\}^ a..1....
+Data: 0320  c3 59 35 f2 f5 3b 58 da  29 05 a4 e4               .Y5..;X. )...
+èData:  ******* Raw Hex Output - length=78 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 40 7e 58 40 00 80 11  70 e0 c0 a8 64 25 40 e9   .@~X@... p...d%@.
+Data: 0020  a5 bd c0 59 01 bb 00 2c  7d 9e 0c 3d f4 dc 82 d3   ...Y..., }..=....
+Data: 0030  37 5c 69 04 ee a4 90 f1  7f db bd e6 b7 5e 90 e6   7\i..... .....^..
+Data: 0040  65 b9 10 89 54 e6 1d 5b  31 9b 3a bf 35 a4         e...T..[ 1.:.5.
+ŽData:  ******* Raw Hex Output - length=55 bytes
+Data: Segment:                   Bytes:                              Ascii:
+Data: --------------------------------------------------------------------------
+Data: 0000  84 74 2a 14 d3 ef 28 c2  dd 99 83 e5 08 00 45 00   .t*...(. ......E.
+Data: 0010  00 29 7e 59 40 00 80 06  cb 28 c0 a8 64 25 ad c2   .)~Y@... .(..d%..
+Data: 0020  de bc c4 8c 14 6c 7e df  c5 29 42 74 81 76 50 10   .....l~. .)Bt.vP.
+Data: 0030  40 59 dd 40 00 00 00                               @Y.@...
